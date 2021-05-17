@@ -1,0 +1,23 @@
+plugins {
+    id 'java'
+    id "io.freefair.lombok" version "6.0.0-m2"
+}
+
+group 'ch.srf.inte'
+version '1.0-SNAPSHOT'
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    compile 'ch.qos.logback:logback-classic:1.2.3'
+    compile 'com.google.code.gson:gson:2.8.6'
+
+    testImplementation 'org.junit.jupiter:junit-jupiter-api:5.7.0'
+    testRuntimeOnly 'org.junit.jupiter:junit-jupiter-engine:5.7.0'
+}
+
+test {
+    useJUnitPlatform()
+}

@@ -1,0 +1,102 @@
+Wohinter verbirgt sich die Rechtswissenschaft?
+A: Silur
+B: Perm
+C: Jura
+D: Devon
+3
+Was verschafft einem an der Wohnungstür den Durchblick?
+A: Agent
+B: Spion
+C: Spitzel
+D: V-Mann
+2
+Was entdeckte Jakob Roggeveen am Ostersonntag des Jahres 1722?
+A: Osterhase
+B: Osterinsel
+C: Osterglocke
+D: Österreich
+2
+Welches Schiff rammt 1912 einen Eisberg und sank?
+A: Hindenburg
+B: Bounty
+C: Titanic
+D: Kon-Tiki
+3
+Wenn das Wetter gut ist, wird der Bauer bestimmt den Eber, das Ferkel und...?
+A: ...einen draufmachen
+B: ...die Nacht durchzechen
+C: ...die Sau rauslassen
+D: ...auf die Kacke hauen
+3
+Was ist meist ziemlich viel?
+A: stolze Summe
+B: selbstbewusste Differenz
+C: arroganter Quotient
+D: hochmütiges Produkt
+1
+Wessen Genesung schnell voranschreitet, der erholt sich...?
+A: ...hinguckends
+B: ...anschauends
+C: ...zusehends
+D: ...glotzends
+3
+Natürlich spielten musikalische Menschen auch im...?
+A: ...Westsaxo Fon
+B: ...Nordklari Nette
+C: ...Südpo Saune
+D: ...Ostblock Flöte
+4
+Wobei gibt es keine geregelten Öffnungszeiten?
+A: Baumärkte
+B: Möbelhäuser
+C: Teppichgeschäfte
+D: Fensterläden
+4
+Welches der folgenden Wörter ist kein Java-Schlüsselwort?
+A: super
+B: return
+C: while
+D: text
+4
+Welches der folgenden Datentypen ist nicht primitiv?
+A: int
+B: boolean
+C: char
+D: String
+4
+Eine Schwalbe macht noch keinen...
+A: Frühling
+B: Sommer
+C: Herbst
+D: Winter
+2
+Wie nennt man den Graphen einer quadratischen Funktion?
+A: Parabel
+B: Hyperbel
+C: Gerade
+D: Kreis
+1
+Wie nennt man die Grundrechenart, bei der das Ergebnis Wert des Quotienten heisst?
+A: Addition
+B: Multiplikation
+C: Division
+D: Substraktion
+3
+Wie heisst die Umkehrfunktion einer Logarithmusfunktion?
+A: Expotentialfunktion
+B: Kreisfunktion
+C: Gerade
+D: Parabel
+1
+In welchem Jahr endete der 2.Weltkrieg?
+A: 2014
+B: 1918
+C: 1962
+D: 1945
+4
+Welcher Monat hat in einem Schaltjahr einen Tag mehr als sonst?
+A: Februar
+B: Dezember
+C: April
+D: Juni
+1

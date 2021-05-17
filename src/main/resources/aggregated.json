@@ -1,0 +1,6173 @@
+[
+  {
+    "question": "Wie wird das windstille Zentrum eines Wirbelsturms genannt?",
+    "answers": [
+      "Auge",
+      "Herz",
+      "Hirn",
+      "Körper"
+    ],
+    "correctAnswerIndex": 0,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "question": "Wie nennt man die starken Regenfälle, die zu bestimmten Jahreszeiten in Asien niedergehen?",
+    "answers": [
+      "Monsun",
+      "Taikun",
+      "Orkan",
+      "Zyklon"
+    ],
+    "correctAnswerIndex": 0,
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Was ist ein Mittelgebirge?",
+    "answers": [
+      "ein Gebirge von mittlerer Höhe",
+      "die Mitte eines Gebirges",
+      "ein Gebirge in der Mitte eines Landes",
+      "ein Gebirge zwischen zwei Gebirgen"
+    ],
+    "correctAnswerIndex": 0,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "question": "Welche Küstenform gibt es nicht?",
+    "answers": [
+      "Geestküste",
+      "Schärenküste",
+      "Boddenküste",
+      "Fördenküste"
+    ],
+    "correctAnswerIndex": 0,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "question": "Welcher der folgenden Begriffe bezeichnet keinen Wind?",
+    "answers": [
+      "Tsunami",
+      "Bora",
+      "Mistral",
+      "Schirokko"
+    ],
+    "correctAnswerIndex": 0,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "question": "Wie nennt man die Wolken, die sehr hoch am Himmel dünne weisse Streifen bilden und schlechtes Wetter ankündigen?",
+    "answers": [
+      "Federwolken",
+      "Haufenwolken",
+      "Schäfchenwolken",
+      "Schichtwolken"
+    ],
+    "correctAnswerIndex": 0,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "question": "In welcher Zeitzone liegt Saudi-Arabien?",
+    "answers": [
+      "MEZ + 2 Stunden",
+      "MEZ + 3 Stunden",
+      "GMT + 1 Stunde",
+      "GMT + 4 Stunden"
+    ],
+    "correctAnswerIndex": 0,
+    "difficulty": "HARD"
+  },
+  {
+    "question": "Wer schuf die ersten modernen Landkarten?",
+    "answers": [
+      "Mercator",
+      "Beheim",
+      "Mercalli",
+      "Marconi"
+    ],
+    "correctAnswerIndex": 0,
+    "difficulty": "HARD"
+  },
+  {
+    "question": "Breite Flussmündungen mit vielen Flussarmen nennt man ...?",
+    "answers": [
+      "Delta",
+      "Alpha",
+      "Beta",
+      "Gamma"
+    ],
+    "correctAnswerIndex": 0,
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Wer war während des zweiten Weltkrieges US-Präsident?",
+    "answers": [
+      "Franklin D. Roosevelt",
+      "Richard Nixon",
+      "John F. Kennedy",
+      "Ronald Reagan"
+    ],
+    "correctAnswerIndex": 0,
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Wie hiess die deutsche Verteidigungslinie in Italien, auf der im zweiten Weltkrieg das Kloster Monte Carlo lag?",
+    "answers": [
+      "Gustavlinie",
+      "Ferdinandlinie",
+      "Franzlinie",
+      "Gretellinie"
+    ],
+    "correctAnswerIndex": 0,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "question": "Wem gelang es, im 1.Weltkrieg Deutsch-Ostafrika als einzige deutsche Kolonie bis zum Ende des Krieges gegen die britischen, belgischen und portugiesischen Truppen zu verteidigen?",
+    "answers": [
+      "Paul von Lettow-Vorbeck",
+      "Lothar von Trotha",
+      "Freiherr von Schleinitz",
+      "Graf von Götzen"
+    ],
+    "correctAnswerIndex": 0,
+    "difficulty": "EASY"
+  },
+  {
+    "question": "1994 fand in Ruanda einer der schlimmsten Völkermorde der Menschheitsgeschichte statt als Ergebnis einer jahrzehntelangen Feindschaft zwischen zwei Volksgruppen. Wie heissen diese?",
+    "answers": [
+      "Hutu und Tutsi",
+      "Zulu und Xhosa",
+      "Bemda und Nyanja",
+      "Kikuyu und Massai"
+    ],
+    "correctAnswerIndex": 0,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "question": "Welches Giftgas wurde während des 2. Weltkrieges durch die Alliierten gegen Städte in Japan eingesetzt?",
+    "answers": [
+      "Napalm",
+      "Agent Orange",
+      "Sulphurdioxid",
+      "Senfgas"
+    ],
+    "correctAnswerIndex": 0,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "question": "Welche deutsche Stadt wurde im zweiten Weltkrieg als Erste von den Amerikanern eingenommen?",
+    "answers": [
+      "Aachen",
+      "Kaiserslautern",
+      "Mannheim",
+      "Koblenz"
+    ],
+    "correctAnswerIndex": 0,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "question": "Byzanz und Konstantinopel sind alle Namen für?",
+    "answers": [
+      "Istanbul",
+      "Bagdad",
+      "Damaskus",
+      "Athen"
+    ],
+    "correctAnswerIndex": 0,
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Welche berühmte Person aus der Antike liess sich von einer Schlange beissen, um Selbstmord zu begehen?",
+    "answers": [
+      "Cleopatra",
+      "Cäsar",
+      "Marc Anton",
+      "Sophokles"
+    ],
+    "correctAnswerIndex": 0,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "question": "In welchem Jahr gründeten Uri, Schwyz und Unterwalden die Eidgenossenschaft?",
+    "answers": [
+      "1291",
+      "1266",
+      "1298",
+      "1307"
+    ],
+    "correctAnswerIndex": 0,
+    "difficulty": "EASY"
+  },
+  {
+    "question": "\"Welche Stadt wurde nach Ende des 2.Weltkrieges von \"\"Rosinenbombern\"\" versorgt?\"",
+    "answers": [
+      "Westberlin",
+      "Frankfurt",
+      "München",
+      "Hamburg"
+    ],
+    "correctAnswerIndex": 0,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "question": "Wie viele Punkte ergibt der erste gewonnene Ballwechsel beim Tennis?",
+    "answers": [
+      "15",
+      "1",
+      "5",
+      "10"
+    ],
+    "correctAnswerIndex": 0,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "question": "In welcher Sportart kann man einen Satz mit 25:21 gewinnen?",
+    "answers": [
+      "Volleyball",
+      "Tischtennis",
+      "Badminton",
+      "Prellball"
+    ],
+    "correctAnswerIndex": 0,
+    "difficulty": "HARD"
+  },
+  {
+    "question": "Welche alte ostasiatische Kampfsportart perfektionierte Bruce Lee?",
+    "answers": [
+      "Kung Fu",
+      "Makramee",
+      "Ikebana",
+      "Manga"
+    ],
+    "correctAnswerIndex": 0,
+    "difficulty": "EASY"
+  },
+  {
+    "question": "In welcher Sportart müssen die Tore laut Regeln 7,32 Meter breit sein?",
+    "answers": [
+      "Fussball",
+      "Handball",
+      "Wasserball",
+      "Feldhockey"
+    ],
+    "correctAnswerIndex": 0,
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Welche Stadt in Baden-Württemberg ist vor allem bei Leichtathletik-Freunden bekannt?",
+    "answers": [
+      "Kornwestheim",
+      "Biersüdheim",
+      "Weinostheim",
+      "Sektnordheim"
+    ],
+    "correctAnswerIndex": 0,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "question": "Was machen die Sportler beim Triathlon nicht?",
+    "answers": [
+      "reiten",
+      "schwimmen",
+      "Rad fahren",
+      "laufen"
+    ],
+    "correctAnswerIndex": 0,
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Welche Sportart betreibt Hilde Gerg?",
+    "answers": [
+      "Skifahren",
+      "Radsport",
+      "Schwimmen",
+      "Tennis"
+    ],
+    "correctAnswerIndex": 0,
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Wie lang dauert ein reguläres Handball - Spiel?",
+    "answers": [
+      "2 x 30 Minuten",
+      "2 x 45 Minuten",
+      "2 x 20 Minuten",
+      "2 x 35 Minuten"
+    ],
+    "correctAnswerIndex": 0,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "question": "Was für eine Sportart wird in dem Wappen von SpVgg Unterhaching ausser Fussball noch dargestellt?",
+    "answers": [
+      "Bobsport",
+      "Bogenschiessen",
+      "Handball",
+      "Skispringen"
+    ],
+    "correctAnswerIndex": 0,
+    "difficulty": "HARD"
+  },
+  {
+    "question": "Welcher deutsche Leichtathlet war 2000 in einen Dopingskandal verwickelt?",
+    "answers": [
+      "Dieter Baumann",
+      "Frank Busemann",
+      "Heinz Weiss",
+      "Lars Riedel"
+    ],
+    "correctAnswerIndex": 0,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "question": "Welche Formel passt: Die Energie, die einem Körper innewohnt, entspricht seiner Masse, multipliziert mit dem Quadrat der Lichtgeschwindigkeit?",
+    "answers": [
+      "E \u003d mc²",
+      "E \u003d mg²",
+      "A\u003d A+B-B",
+      "E \u003d mc³"
+    ],
+    "correctAnswerIndex": 0,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "question": "Auf welchem Prinzip basiert die chinesische Astrologie?",
+    "answers": [
+      "auf dem Sonne-Mond Zyklus",
+      "auf keinem",
+      "auf den Mondphasen",
+      "auf dem Jahresablauf"
+    ],
+    "correctAnswerIndex": 0,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "question": "Wann wurde der Nobelpreis erstmals an einen Deutschen verliehen?",
+    "answers": [
+      "1901",
+      "1908",
+      "1912",
+      "1883"
+    ],
+    "correctAnswerIndex": 0,
+    "difficulty": "HARD"
+  },
+  {
+    "question": "\"Wo findet man das \"\"Keilbein\"\"?\"",
+    "answers": [
+      "am Schädel",
+      "am Oberschenkelknochen",
+      "am Brustbein",
+      "an der Handwurzel"
+    ],
+    "correctAnswerIndex": 0,
+    "difficulty": "HARD"
+  },
+  {
+    "question": "Welches dieser Lebewesen ist das stammesgeschichtlich älteste?",
+    "answers": [
+      "Blaualge",
+      "Rotalge",
+      "Grünalge",
+      "Kieselalge"
+    ],
+    "correctAnswerIndex": 0,
+    "difficulty": "HARD"
+  },
+  {
+    "question": "Woraus wird Lanolin gewonnen?",
+    "answers": [
+      "Wolle",
+      "Walfett",
+      "Robbenöl",
+      "Katzendarm"
+    ],
+    "correctAnswerIndex": 0,
+    "difficulty": "HARD"
+  },
+  {
+    "question": "Warum ist die Banane krumm?",
+    "answers": [
+      "wegen des Geotropismus",
+      "wegen der Anamorphose",
+      "wegen des Bioflorismus",
+      "wegen der Parazentese"
+    ],
+    "correctAnswerIndex": 0,
+    "difficulty": "HARD"
+  },
+  {
+    "question": "Nach wem wurde die erste ständig besetzte Antarktisstation der Bundesrepublik Deutschland benannt?",
+    "answers": [
+      "von Neumayer",
+      "von Humboldt",
+      "Senckenberg",
+      "Amundsen"
+    ],
+    "correctAnswerIndex": 0,
+    "difficulty": "HARD"
+  },
+  {
+    "question": "In welchem dieser Erdzeitalter lebten die Trilobiten?",
+    "answers": [
+      "Silur",
+      "Devon",
+      "Karbon",
+      "Perm"
+    ],
+    "correctAnswerIndex": 0,
+    "difficulty": "HARD"
+  },
+  {
+    "question": "Was ist ein britisches Stone?",
+    "answers": [
+      "ca. 7 Kilogramm",
+      "ca. 4 Liter",
+      "ca. 6 Meter",
+      "ca. 1 Stunde"
+    ],
+    "correctAnswerIndex": 0,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "question": "Wie heißt Aachen samt Stadttitel?",
+    "answers": [
+      "Sankt Aachen",
+      "Freie Stadt Aachen",
+      "Bad Aachen",
+      "Umwelthauptstadt Aachen"
+    ],
+    "correctAnswerIndex": 0,
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Wenn das Wetter gut ist, wird der Bauer bestimmt den Eber, das Ferkel und ...?",
+    "answers": [
+      "einen draufmachen",
+      "die Nacht durchzechen",
+      "die Sau rauslassen",
+      "auf die Kacke hauen"
+    ],
+    "correctAnswerIndex": 0,
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Welche Gegenstände können in den Geschichten des Orient fliegen?",
+    "answers": [
+      "Häuser",
+      "Münzen",
+      "Tische",
+      "Teppiche"
+    ],
+    "correctAnswerIndex": 0,
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Welches Tier kann seine Hautfarbe an seine Umgebung anpassen?",
+    "answers": [
+      "Ringelnatter",
+      "Chamäleon",
+      "Waldkautz",
+      "Ameisenbär"
+    ],
+    "correctAnswerIndex": 0,
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Welche Figur wurde von Karl May erschaffen?",
+    "answers": [
+      "Asterix",
+      "Winnetou",
+      "Pluto",
+      "Pater Brown"
+    ],
+    "correctAnswerIndex": 0,
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Wovor fürchtet sich der Autobesitzer?",
+    "answers": [
+      "Ventiltrinker",
+      "Kolbenfresser",
+      "Reifenmümmler",
+      "Schaltungsmampfer"
+    ],
+    "correctAnswerIndex": 0,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "question": "Wie nennt man die Mitte eines Tornados?",
+    "answers": [
+      "Nase",
+      "Mund",
+      "Auge",
+      "Ohr"
+    ],
+    "correctAnswerIndex": 0,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "question": "Was sägen Max und Moritz voller Tücke an, um dem Schneider Böck einen Streich zu spielen?",
+    "answers": [
+      "Stuhlbein",
+      "Leiter",
+      "Brücke",
+      "Krückstock"
+    ],
+    "correctAnswerIndex": 0,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "question": "Wen brauchen viele Parasiten zum Überleben?",
+    "answers": [
+      "Kneipier",
+      "Wirt",
+      "Oberkellner",
+      "Barkeeper"
+    ],
+    "correctAnswerIndex": 0,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "question": "Wie heißt eine religiöse Stätte des Judentums in Jerusalem?",
+    "answers": [
+      "Trauermauer",
+      "Klagemauer",
+      "Tempelmauer",
+      "Schlossmauer"
+    ],
+    "correctAnswerIndex": 0,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "question": "Ein berühmter Hurricane der in New Orleans wütete heißt...?",
+    "answers": [
+      "...Melissa",
+      "...Catrina",
+      "...Josephine",
+      "...Mariah"
+    ],
+    "correctAnswerIndex": 0,
+    "difficulty": "HARD"
+  },
+  {
+    "question": "Was ist Red Snapper?",
+    "answers": [
+      "Fisch",
+      "Hunderasse",
+      "Cocktail",
+      "Film"
+    ],
+    "correctAnswerIndex": 0,
+    "difficulty": "HARD"
+  },
+  {
+    "question": "Welche Sprache sprach Jesus?",
+    "answers": [
+      "Hebräisch",
+      "Griechisch",
+      "Assyrisch",
+      "Aramäisch"
+    ],
+    "correctAnswerIndex": 0,
+    "difficulty": "HARD"
+  },
+  {
+    "question": "Was ist Gondwana?",
+    "answers": [
+      "Ein Mädchenname",
+      "Ein Land",
+      "Eine Insel",
+      "Ein Urkontinent"
+    ],
+    "correctAnswerIndex": 0,
+    "difficulty": "HARD"
+  },
+  {
+    "question": "Wer gilt als Vater der Medizin?",
+    "answers": [
+      "Hippokrates",
+      "Rene Lennec",
+      "Thomas Dydenhams",
+      "Santorio"
+    ],
+    "correctAnswerIndex": 0,
+    "difficulty": "HARD"
+  },
+  {
+    "question": "Wohinter verbirgt sich die Rechtswissenschaft?",
+    "answers": [
+      "Silur",
+      "Perm",
+      "Jura",
+      "Devon"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Was verschafft einem an der Wohnungstür den Durchblick?",
+    "answers": [
+      "Agent",
+      "Spion",
+      "Spitzel",
+      "V-Mann"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Was entdeckte Jakob Roggeveen am Ostersonntag des Jahres 1722?",
+    "answers": [
+      "Osterhase",
+      "Osterinsel",
+      "Osterglocke",
+      "Österreich"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Welches Schiff rammt 1912 einen Eisberg und sank?",
+    "answers": [
+      "Hindenburg",
+      "Bounty",
+      "Titanic",
+      "Kon-Tiki"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Wenn das Wetter gut ist, wird der Bauer bestimmt den Eber, das Ferkel und...?",
+    "answers": [
+      "...einen draufmachen",
+      "...die Nacht durchzechen",
+      "...die Sau rauslassen",
+      "...auf die Kacke hauen"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Was ist meist ziemlich viel?",
+    "answers": [
+      "stolze Summe",
+      "selbstbewusste Differenz",
+      "arroganter Quotient",
+      "hochmütiges Produkt"
+    ],
+    "correctAnswerIndex": 0,
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Wessen Genesung schnell voranschreitet, der erholt sich...?",
+    "answers": [
+      "...hinguckends",
+      "...anschauends",
+      "...zusehends",
+      "...glotzends"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Natürlich spielten musikalische Menschen auch im...?",
+    "answers": [
+      "...Westsaxo Fon",
+      "...Nordklari Nette",
+      "...Südpo Saune",
+      "...Ostblock Flöte"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Wobei gibt es keine geregelten Öffnungszeiten?",
+    "answers": [
+      "Baumärkte",
+      "Möbelhäuser",
+      "Teppichgeschäfte",
+      "Fensterläden"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Welches der folgenden Wörter ist kein Java-Schlüsselwort?",
+    "answers": [
+      "super",
+      "return",
+      "while",
+      "text"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Welches der folgenden Datentypen ist nicht primitiv?",
+    "answers": [
+      "int",
+      "boolean",
+      "char",
+      "String"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Eine Schwalbe macht noch keinen...",
+    "answers": [
+      "Frühling",
+      "Sommer",
+      "Herbst",
+      "Winter"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Wie nennt man den Graphen einer quadratischen Funktion?",
+    "answers": [
+      "Parabel",
+      "Hyperbel",
+      "Gerade",
+      "Kreis"
+    ],
+    "correctAnswerIndex": 0,
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Wie nennt man die Grundrechenart, bei der das Ergebnis Wert des Quotienten heisst?",
+    "answers": [
+      "Addition",
+      "Multiplikation",
+      "Division",
+      "Substraktion"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Wie heisst die Umkehrfunktion einer Logarithmusfunktion?",
+    "answers": [
+      "Expotentialfunktion",
+      "Kreisfunktion",
+      "Gerade",
+      "Parabel"
+    ],
+    "correctAnswerIndex": 0,
+    "difficulty": "EASY"
+  },
+  {
+    "question": "In welchem Jahr endete der 2.Weltkrieg?",
+    "answers": [
+      "2014",
+      "1918",
+      "1962",
+      "1945"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Welcher Monat hat in einem Schaltjahr einen Tag mehr als sonst?",
+    "answers": [
+      "Februar",
+      "Dezember",
+      "April",
+      "Juni"
+    ],
+    "correctAnswerIndex": 0,
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Wie hiess Muhammad Ali bevor er zum Islam konvertierte?",
+    "answers": [
+      "Dale Carnegie",
+      "Samuel L. Jackson",
+      "Will Smith",
+      "Cassius Clay"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "question": "Die Fläche welcher geometrischen Figur wird durch das Produkt aus Länge und Breite berechnet?",
+    "answers": [
+      "Rechteck",
+      "Kreis",
+      "Zylinder",
+      "Elipse"
+    ],
+    "correctAnswerIndex": 0,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "question": "Das Volumen welchen geometrischen Körpers wird durch die Formel 4/3πr³ berechnet?",
+    "answers": [
+      "Kugel",
+      "Hohlzylinder",
+      "Quadrat",
+      "Quader"
+    ],
+    "correctAnswerIndex": 0,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "question": "Wie heisst der grösste Hafen Europas?",
+    "answers": [
+      "Rotterdam",
+      "Amsterdam",
+      "Hamburg",
+      "Genua"
+    ],
+    "correctAnswerIndex": 0,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "question": "Welcher Staat richtete bereits 1910 als erstes europäisches Land Naturschutzgebiete ein?",
+    "answers": [
+      "Frankreich",
+      "Norwegen",
+      "Schweden",
+      "Italien"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "question": "Was war bereits seit Mai 1969 ein beliebtes Zahlungsmittel im europäischen Raum?",
+    "answers": [
+      "Euronoten",
+      "Eurocheques",
+      "Euroscheine",
+      "Euromünzen"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "question": "Woraus besteht in der Regel eine Entourage?",
+    "answers": [
+      "Baguette \u0026 Rotwein",
+      "Mascara \u0026 Lidschatten",
+      "Freunde \u0026 Bekannte",
+      "Sofa \u0026 Sessel"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "question": "Was haben die Hollywood-Stars Gosling, Reynolds und Phillippe gemeinsam?",
+    "answers": [
+      "Vorname Ryan",
+      "Ex-Frau Megan Fox",
+      "Geburtsjahr 1978",
+      "irische Staatsbürgerschaft"
+    ],
+    "correctAnswerIndex": 0,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "question": "Was ist ein Kaolin?",
+    "answers": [
+      "Gleitflüssigkeit",
+      "Weichspüler",
+      "Zinn-Kupfer-Legierung",
+      "Porzellan-Erde"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "question": "Wie heissen Fluss und Gebirge, die Europa und Asien trennen?",
+    "answers": [
+      "Karpaten",
+      "Atlas",
+      "Ural",
+      "Himalaya"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "question": "Wie heisst die Meeresstrasse zwischen Alaska und Sibirien?",
+    "answers": [
+      "Bosporus",
+      "Dardanellen",
+      "Beringstrasse",
+      "Strasse von Gibralta"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "question": "Welchen Beinamen hatte der deutsche Kaiser Friedrich I., der heute immer noch im Kyffhäusergebirge leben soll?",
+    "answers": [
+      "Alter Fritz",
+      "Rübezahl",
+      "Eisenherz",
+      "Barbarossa"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "question": "Wie viele Felder hat ein Schachbrett schwarze und weisse zusammen?",
+    "answers": [
+      "49",
+      "36",
+      "64",
+      "81"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "question": "Wie heisst der Fuchs in der Fabel?",
+    "answers": [
+      "Lampe",
+      "Isegrim",
+      "Reineke",
+      "Adebar"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "question": "Bei welcher Temperatur hat Wasser seine grösste Dichte?",
+    "answers": [
+      "0°C",
+      "100°C",
+      "4°C",
+      "-20°C"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "question": "Auf welcher Burg übersetzte Martin Luther die Bibel ins Deutsche?",
+    "answers": [
+      "Salzburg",
+      "Wartburg",
+      "Adelburg",
+      "Velburg"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "question": "Was misst man mit einem Manometer?",
+    "answers": [
+      "Länge der Hände",
+      "Druck von Gasen",
+      "Tiefe des Meeres",
+      "Oberfläche von Kugeln"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "question": "Welcher dieser Begriffe ist kein Flächenmass?",
+    "answers": [
+      "Hektar",
+      "Morgen",
+      "Abend",
+      "Tagwerk"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "question": "Welcher Boxkampf ging als \"Rumble in the Jungle\" in die Geschichte ein?",
+    "answers": [
+      "Muhammad Ali vs. George Foreman",
+      "Wladimir Klitschko vs. Vitali Klitschko",
+      "Muhammad Ali vs. Joe Frazier",
+      "Mike Tyson vs. Evander Holyfield"
+    ],
+    "correctAnswerIndex": 0,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "question": "Wo ist die Umlaufgeschwindigkeit der Erde am höchsten?",
+    "answers": [
+      "Deutschland",
+      "Am Äquator",
+      "Am Nordpol",
+      "Am Südpol"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "question": "Welches Land hat eine Nationalhymne ohne Text?",
+    "answers": [
+      "Haiti",
+      "Irak",
+      "Spanien",
+      "Frankreich"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "question": "Welche beiden Staaten einigten sich Ende 2012 über die Festsetzung eines Grenzverlaufs?",
+    "answers": [
+      "Deutschland \u0026 Australien",
+      "Polen \u0026 Südafrika",
+      "Dänemark \u0026 Kanada",
+      "Österreich \u0026 Japan"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "HARD"
+  },
+  {
+    "question": "Seine drei Weltmeister-Titel erfuhr sich Sebastian Vettel mit Motoren von...?",
+    "answers": [
+      "Ferrari",
+      "Mercedes",
+      "Renault",
+      "Toyota"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "HARD"
+  },
+  {
+    "question": "Welcher General vertrieb im 19. Jahrhundert die Mexikaner aus dem heutigen US-Bundesstaat Texas?",
+    "answers": [
+      "John Denver",
+      "Sam Houston",
+      "Michael Miami",
+      "Phil A. Delphia"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "HARD"
+  },
+  {
+    "question": "Der Text welches dieser berühmten Songs ist ganz offensichtlich an eine Prostituierte gerichtet?",
+    "answers": [
+      "\"Angie\" von den Stones",
+      "Manilows \"Mandy\"",
+      "Jacksons \"Billie Jean\"",
+      "\"Roxanne\" von The Police"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "HARD"
+  },
+  {
+    "question": "Was soll in bestimmten Abständen nach der sogenannten ABCDE-Regel kontrolliert werden?",
+    "answers": [
+      "Komposthaufen im Garten",
+      "Luftdruck der Autoreifen",
+      "Leberflecken auf der Haut",
+      "Aktienfonds bei der Bank"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "HARD"
+  },
+  {
+    "question": "Wer sollte sich mit der \"Zwanzig nach vier\"-Stellung auskennen?",
+    "answers": [
+      "Fahrlehrer",
+      "Karatemeister",
+      "Kellner",
+      "Landschaftsarchitekt"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "HARD"
+  },
+  {
+    "question": "Welche Pflanzenart, die heute noch wächst, gab es vor Jahrmillionen in baumhoher Grösse?",
+    "answers": [
+      "Besenginister",
+      "Schachtelhalme",
+      "Braunalgen",
+      "Kakteen"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "HARD"
+  },
+  {
+    "question": "Wie nennt man die Vorderseite einer Münze?",
+    "answers": [
+      "Legende",
+      "Musiv",
+      "Avers",
+      "Numismat"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "HARD"
+  },
+  {
+    "question": "Unter welchem Namen ist der afrikanische Baobab-Baum bei uns besser bekannt?",
+    "answers": [
+      "Affenbrotbaum",
+      "Eukalyptusbaum",
+      "Mammutbaum",
+      "Bambus"
+    ],
+    "correctAnswerIndex": 0,
+    "difficulty": "HARD"
+  },
+  {
+    "question": "Wie heisst die Entfernungseinheit in der Astronomie, die umgerechnet 30,86 Billionen Kilometer bezeichnet?",
+    "answers": [
+      "Fenek",
+      "Palstek",
+      "Parsek",
+      "Perihel"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "HARD"
+  },
+  {
+    "question": "Woraus besteht Stannialpapier?",
+    "answers": [
+      "Ausgewalztes Zinn",
+      "Dünnes Aluminium",
+      "Blattgold",
+      "Tafelsilber"
+    ],
+    "correctAnswerIndex": 0,
+    "difficulty": "HARD"
+  },
+  {
+    "question": "Welcher Handwerksstand machte 1844 einen Aufstand, der in die Geschichte einging?",
+    "answers": [
+      "Die Weber",
+      "Die Schneider",
+      "Die Bäcker",
+      "Die Schlosser"
+    ],
+    "correctAnswerIndex": 0,
+    "difficulty": "HARD"
+  },
+  {
+    "question": "Wie bezeichnet man es, wenn Wildtiere mit der Zeit durch den Einfluss der Menschen zu Haustieren werden?",
+    "answers": [
+      "Metamorphose",
+      "Mimikri",
+      "Anamnese",
+      "Domestikation"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "HARD"
+  },
+  {
+    "question": "Wie nennt man das Zusammenziehen einzelner Darmabschnitte, um den Inhalt weiterzubefördern?",
+    "answers": [
+      "Peristaltik",
+      "Pneumatik",
+      "Scholastik",
+      "Galvanik"
+    ],
+    "correctAnswerIndex": 0,
+    "difficulty": "HARD"
+  },
+  {
+    "question": "Wie nennt man in der Geometrie einen ringförmigen Körper?",
+    "answers": [
+      "Prisma",
+      "Tetraeder",
+      "Torus",
+      "Sphäroid"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "HARD"
+  },
+  {
+    "question": "Wie nennt man die besonderen Augen, die z.B. Insekten besitzen?",
+    "answers": [
+      "Neunaugen",
+      "Facettenaugen",
+      "Argusaugen",
+      "Pfauenaugen"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "HARD"
+  },
+  {
+    "question": "Welches Land misst das Glück seiner Bürger zur Bestimmung des Wohlstandes?",
+    "answers": [
+      "Ungarn",
+      "Taiwan",
+      "Bhutan",
+      "Mongolei"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "HARD"
+  },
+  {
+    "question": "Wie bezeichnet man die Apokalypse im Hinduismus?",
+    "answers": [
+      "Satya-Yuga",
+      "Kali-Yuga",
+      "Treta-Yuga",
+      "Dvapara-Yuga"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "HARD"
+  },
+  {
+    "question": "Wie lange dauert ein Maha-Yuga?",
+    "answers": [
+      "1.000.000 Jahre",
+      "3.745.569.000 Jahre",
+      "500 Jahre",
+      "4.320.000 Jahre"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "HARD"
+  },
+  {
+    "question": "Wird ein Roman häppchenweise in der Tageszeitung abgedruckt, steht am Ende eines Teils meist …?",
+    "answers": [
+      "Fortsetzung folgt",
+      "Bleiben Sie dran!",
+      "Die Spannung steigt",
+      "Ende offen"
+    ],
+    "correctAnswerIndex": 0,
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Was ist die höchste Gewinnstufe bei Wer Wird Millionär?",
+    "answers": [
+      "100000",
+      "10000",
+      "1000000",
+      "64000"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Was ist ein anerkannter Ausbildungsberuf?",
+    "answers": [
+      "Gemäldekaiser",
+      "Bildkönig",
+      "Diafürst",
+      "Fotograf"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Welches Videospiel war 2018 am beliebtesten?",
+    "answers": [
+      "Tetris",
+      "Fortnite",
+      "Minecraft",
+      "Snake"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Woran schwingt sich Tarzan durch den Wald?",
+    "answers": [
+      "Diane",
+      "Liane",
+      "Ariane",
+      "Christiane"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Wie nennt man eine äußerst mitteilungsbedürftige Person?",
+    "answers": [
+      "Plaudertasche",
+      "Tratschbeutel",
+      "Labertornister",
+      "Schwatzmensch"
+    ],
+    "correctAnswerIndex": 0,
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Schon in der Antike tröstete man sich mit der Erkenntnis \"Irren ist ...\"?",
+    "answers": [
+      "Männlich",
+      "Verzeihlich",
+      "Nebensächlich",
+      "Menschlich"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Wovon ist laut einer Redensart noch kein Meister gefallen?",
+    "answers": [
+      "Vom Barhocker",
+      "Vom Himmel",
+      "Vom Dach",
+      "Vom Glauben"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Was wird strafrechtlich verfolgt?",
+    "answers": [
+      "Diebeisen",
+      "Diebstahl",
+      "Diebblech",
+      "Diebchrom"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Das läuft ja wie am …?",
+    "answers": [
+      "Schnürchen",
+      "Bändchen",
+      "Fädchen",
+      "Seilchen"
+    ],
+    "correctAnswerIndex": 0,
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Kühe stehen auf der …?",
+    "answers": [
+      "Birke",
+      "Linde",
+      "Weide",
+      "Eiche"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Welche chinesische Köstlichkeit ist auch bei uns als warme Vorspeise beliebt?",
+    "answers": [
+      "Frühlingsrolle",
+      "Sommerscholle",
+      "Herbstknolle",
+      "Winterwolle"
+    ],
+    "correctAnswerIndex": 0,
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Welcher der folgenden ist ein “Klumpen” im Hals?",
+    "answers": [
+      "Bertsbanane",
+      "Waltersweintraube",
+      "Williamsbirne",
+      "Adamsapfel"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Was begräbt man redensartlich, wenn man mit jemandem Frieden schließt?",
+    "answers": [
+      "Käsemesser",
+      "Kriegsbeil",
+      "Silberpfeil",
+      "Damoklesschwert"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Ohne Vorbereitung ist es wahrscheinlich, dass ich beim Examen …",
+    "answers": [
+      "Bauchweh",
+      "Übelkeit",
+      "Erbrechen",
+      "Durchfall"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Wer war Kurfürst von Sachsen und König von Polen?",
+    "answers": [
+      "November der Große",
+      "Februar der Fromme",
+      "August der Starke",
+      "Juni der Schöne"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Die aus Ostasien stammende Staude Zingiber officinalis ist hierzulande bekannt als …",
+    "answers": [
+      "Ingwo",
+      "Ingwer",
+      "Ingwann",
+      "Ingwieso"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Seit jeher haben die meisten …",
+    "answers": [
+      "Schäfer Hunde",
+      "Cosler Spaniels",
+      "Riesen Fliegen",
+      "Dober Männer"
+    ],
+    "correctAnswerIndex": 0,
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Mit dem Picknick im Grünen wird es meist nur dann etwas, wenn …",
+    "answers": [
+      "der Regen zuschaut",
+      "das Klima auf der Bank sitzt",
+      "der Schnee dabei ist",
+      "das Wetter mitspielt"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Was feiert man seit Ende der 90er-Jahre auch verstärkt in Deutschland?",
+    "answers": [
+      "Ciaorohm",
+      "Grüezibärn",
+      "Halloween",
+      "Adieupari"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Wer sich durch einen unwegsamen Laubwald kämpft, der streift bestimmt auch mit der …",
+    "answers": [
+      "Schien Beine",
+      "Hüft Gelenke",
+      "Knie Scheibe",
+      "Schulter Blätter"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Was trägt man eher unfreiwillig?",
+    "answers": [
+      "Zungenpiercing",
+      "Armreifen",
+      "Halskette",
+      "Augenringe"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Von einer Telefonzentrale lassen sich Anrufer ...",
+    "answers": [
+      "pflastern",
+      "eingipsen",
+      "verbinden",
+      "bandagieren"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Wer keinerlei Interesse zeigt, der hat \"null ...\"",
+    "answers": [
+      "Hengst",
+      "Bock",
+      "Rammler",
+      "Keiler"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Einen Anrufer hat man redensartlich an der …",
+    "answers": [
+      "Strippe",
+      "Kordel",
+      "Leine",
+      "Kette"
+    ],
+    "correctAnswerIndex": 0,
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Von wem ist seit Juli 2003 kein Nachwuchs mehr zu erwarten?",
+    "answers": [
+      "Marienkäfer",
+      "Hirschkäfer",
+      "VW Käfer",
+      "Borkenkäfer"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Wer sich nur mühsam äußern kann, der muss um ...",
+    "answers": [
+      "Wörter ringen",
+      "Sätze fechten",
+      "Silben catchen",
+      "Buchstaben boxen"
+    ],
+    "correctAnswerIndex": 0,
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Wie wird der Arbeitgeber auch bezeichnet?",
+    "answers": [
+      "Teigschaber",
+      "Tortenheber",
+      "Brötchengeber",
+      "Krümel"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Wöchentlich erscheint das Hamburger Nachrichtenmagazin …",
+    "answers": [
+      "Der Lockenwickler",
+      "Der Spiegel",
+      "Der Fön",
+      "Der Lippenstift"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Wenn etwas keinerlei Qualitätsanspruch erfüllt, dann ist es ...",
+    "answers": [
+      "grottenschlecht",
+      "tunnelelend",
+      "kanalfaul",
+      "höhlenmies"
+    ],
+    "correctAnswerIndex": 0,
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Eine tolle Sache nennt man umgangssprachlich auch ...",
+    "answers": [
+      "erste Sahne",
+      "vierter Käse",
+      "zweite Milch",
+      "dritter Quark"
+    ],
+    "correctAnswerIndex": 0,
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Welchem Heiligen ist der 31.12. gewidmet?",
+    "answers": [
+      "Ali",
+      "Brian",
+      "Silvester",
+      "Nikolaus"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Was ist laut den biblischen 10 Geboten nicht ausdrücklich verboten?",
+    "answers": [
+      "Ehebrechen",
+      "Töten",
+      "Stehlen",
+      "Rauchen"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Worauf radelt man zu zweit?",
+    "answers": [
+      "Trabant",
+      "Katamaran",
+      "Zweierbob",
+      "Tandem"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Wer zuletzt lacht, lacht am …?",
+    "answers": [
+      "dümmsten",
+      "dollsten",
+      "wenigsten",
+      "besten"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Wie heißen die Sicherheitscontainer, in denen radioaktives Material befördert wird?",
+    "answers": [
+      "ARCOR",
+      "ERROR",
+      "GREGOR",
+      "CASTOR"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Wie heißen die Zeichentrick-Wichte, die im ZDF-Werbefernsehen „Gu’n Abend!“ Wünschen?",
+    "answers": [
+      "Heinzelmännchen",
+      "Mainzelmännchen",
+      "Lerchenzwerge",
+      "Fruchtzwerge"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Was sucht man bei einem Pkw mit Automatik-Getriebe vergeblich?",
+    "answers": [
+      "Zündschloss",
+      "Gaspedal",
+      "Kupplungspedal",
+      "Tank"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Was sollte eine Primaballerina in jedem Fall können?",
+    "answers": [
+      "Tanzen",
+      "Reiten",
+      "Backen",
+      "Stricken"
+    ],
+    "correctAnswerIndex": 0,
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Welches Schiff rammte 1912 einen Eisberg und sank?",
+    "answers": [
+      "Wasa",
+      "Bounty",
+      "Titanic",
+      "Estonia"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Viele Köche verderben …?",
+    "answers": [
+      "den Markt",
+      "den Appetit",
+      "den Brei",
+      "die Laune"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Der Apfel fällt nicht weit vom …?",
+    "answers": [
+      "Kopf",
+      "Stamm",
+      "Strauch",
+      "Schneewittchen"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Wie heißt das Großraumflugzeug Boeing 747 im Volksmund?",
+    "answers": [
+      "Bingo",
+      "Bongo",
+      "Mango",
+      "Jumbo"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Für einen guten Freund lege ich meine Hand ins …?",
+    "answers": [
+      "Grab",
+      "Wasser",
+      "Feuer",
+      "Gefrierfach"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Wie nennt man eine schmeichelhafte Äußerung noch?",
+    "answers": [
+      "Kompromiss",
+      "Komplikation",
+      "Komplott",
+      "Kompliment"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Wie heißt der Geschwindigkeitsmesser in Fahrzeugen?",
+    "answers": [
+      "Echolot",
+      "Radar",
+      "Tachometer",
+      "Blinker"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Was ist ein Gepard?",
+    "answers": [
+      "Turnschuh",
+      "Pausensnack",
+      "Raubkatze",
+      "Geheimagnet"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Wie bezeichnet man den Bildschirm eines Computers?",
+    "answers": [
+      "Monolog",
+      "Monitor",
+      "Monarchie",
+      "Mongolei"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Wie nennt man ein kleines Pferd?",
+    "answers": [
+      "Klepper",
+      "Pony",
+      "Mustang",
+      "Hottemax"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Wie bezeichnet man altes, verdorbenes Fleisch?",
+    "answers": [
+      "harzig",
+      "garstig",
+      "ranzig",
+      "karstig"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Wie nennt man den gleich klingenden Ausgang zweier Verse?",
+    "answers": [
+      "Finale",
+      "Kür",
+      "Reim",
+      "Kollaps"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Was ist eine Remoulade?",
+    "answers": [
+      "Fensterrolle",
+      "Kräutermajonäse",
+      "Geheimschubfach",
+      "Pralinenfüllung"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Wie nennt der Spieler die Punkte auf einem Würfel?",
+    "answers": [
+      "Beine",
+      "Ohren",
+      "Augen",
+      "Zehen"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Was tauschen Brautleute bei einer kirchlichen Hochzeitszeremonie aus?",
+    "answers": [
+      "Ringe",
+      "Lebensversicherungen",
+      "Die ersten Zähne",
+      "Bratkartoffeln"
+    ],
+    "correctAnswerIndex": 0,
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Wie heißt der Mitbewohner von Ernie in der Sesamstraße?",
+    "answers": [
+      "Bart",
+      "Brot",
+      "Brett",
+      "Bert"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "EASY"
+  },
+  {
+    "question": "An welchem Tag ist Heiligabend?",
+    "answers": [
+      "25. Dezember",
+      "2. Juli",
+      "1. April",
+      "24. Dezember"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Welchem radioaktiv verseuchten Atoll hat eine zweiteilige Badebekleidung für Damen ihren Namen zu verdanken?",
+    "answers": [
+      "Mamamia",
+      "Eiapopeia",
+      "Gregogisi",
+      "Bikini"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Was machen Geister in alten Gemäuern?",
+    "answers": [
+      "spucken",
+      "spintisieren",
+      "spuken",
+      "spinnen"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Wie nennt man den schriftlich fixierten letzten Willen?",
+    "answers": [
+      "Firmament",
+      "Posament",
+      "Konsument",
+      "Testament"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Wie nennt man jemanden, der ohne gültigen Fahrausweis ein öffentliches Verkehrsmittel benutzt?",
+    "answers": [
+      "Schwarzfahrer",
+      "Blaumann",
+      "Grünschnabel",
+      "Weißdorn"
+    ],
+    "correctAnswerIndex": 0,
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Wie nennt man einen Menschen, der sich ausschließlich von pflanzlicher Kost ernährt?",
+    "answers": [
+      "Botaniker",
+      "Wiederkäuer",
+      "Vegetarier",
+      "Florist"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Wer hat das Autofahren zu seinem Beruf gemacht?",
+    "answers": [
+      "Coiffeur",
+      "Charmeur",
+      "Chauffeur",
+      "Chauvinist"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Wie nennt man die inneren Organe des Menschen?",
+    "answers": [
+      "Eingeweide",
+      "Zweigeweide",
+      "Dreigeweide",
+      "Viergeweide"
+    ],
+    "correctAnswerIndex": 0,
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Gene Kelly spielte den “Amerikaner in …“?",
+    "answers": [
+      "Bottrop",
+      "Köln-Nippes",
+      "Arnsdorf",
+      "Paris"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Welches der folgenden Wörter bezeichnet keine japanische Form der Selbstverteidigung?",
+    "answers": [
+      "Judo",
+      "Aikido",
+      "Karate",
+      "Mikado"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Was schmiert man jemandem sprichwörtlich schmeichelnd um den Bart?",
+    "answers": [
+      "Schleim",
+      "Honig",
+      "Farbe",
+      "Sahne"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Was ist eine Glucke?",
+    "answers": [
+      "brütendes Huhn",
+      "Gewohnheitstrinkerin",
+      "Dunstschicht",
+      "Himmelbett"
+    ],
+    "correctAnswerIndex": 0,
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Was gießt man sprichwörtlich ins Feuer, um einen Streit zu verschärfen?",
+    "answers": [
+      "Wasser",
+      "Öl",
+      "Spiritus",
+      "Benzin"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Über welchen Fluss geht man sprichwörtlich, wenn man das Zeitliche segnet?",
+    "answers": [
+      "Mosel",
+      "Donau",
+      "Euphrat",
+      "Jordan"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Wie nennt man Kaffee mit einem Schuss Whiskey und Schlagsahne?",
+    "answers": [
+      "Scottish Delight",
+      "Irish Coffee",
+      "English Cream",
+      "Nessies Dream"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Was wird als Firmament bezeichnet?",
+    "answers": [
+      "Unternehmensgründung",
+      "Himmelsgewölbe",
+      "trockener Zement",
+      "Ladendiebstahl"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "EASY"
+  },
+  {
+    "question": "In welcher Stadt ist der Fußball-Verein Hertha BSC beheimatet?",
+    "answers": [
+      "Braunschweig",
+      "Bethel",
+      "Berlin",
+      "Böklund"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Wie lautet der Name Gottes bei den Muslimen?",
+    "answers": [
+      "Koran",
+      "Allah",
+      "Mohammed",
+      "Buddha"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "EASY"
+  },
+  {
+    "question": "In welchem Behältnis wird die Asche eines Verstorbenen beigesetzt?",
+    "answers": [
+      "Vase",
+      "Terrarium",
+      "Wabe",
+      "Urne"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Wie heißt das Nachbarland Portugals auf der Iberischen Halbinsel?",
+    "answers": [
+      "Frankreich",
+      "Italien",
+      "Spanien",
+      "Andorra"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Wer schrieb die “Winnetou“- Romane?",
+    "answers": [
+      "Gary Lassiter",
+      "Karl May",
+      "Pierre Brice",
+      "Donald John Trump"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Wie heißt der junge Freund von Lukas, dem Lokomotivführer?",
+    "answers": [
+      "Jim Knopf",
+      "Nils Holgersson",
+      "Karlsson vom Dach",
+      "Kevin"
+    ],
+    "correctAnswerIndex": 0,
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Wer übersetzt professionell Fremdsprachen?",
+    "answers": [
+      "Systemadministrator",
+      "Dolmetscher",
+      "Hotelier",
+      "Orthopäde"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Womit kennzeichnet der Handel Verpackungen, die gesammelten und verwertet werden können?",
+    "answers": [
+      "Grüner Punkt",
+      "Gelbe Ampel",
+      "Rotes Kreuz",
+      "Blauer Enzian"
+    ],
+    "correctAnswerIndex": 0,
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Was gehört nicht zu den drei Staatsgewalten?",
+    "answers": [
+      "Legislative",
+      "Palmolive",
+      "Exekutive",
+      "Judikative"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Wie heißt der tiefe Ausschnitt bei Damenkleidern?",
+    "answers": [
+      "Negligee",
+      "Dekolletee",
+      "Fabergé",
+      "Kanapee"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Wie ist ein Mensch, der Bestechungsgelder annimmt?",
+    "answers": [
+      "korrupt",
+      "korrekt",
+      "kapriziös",
+      "karitativ"
+    ],
+    "correctAnswerIndex": 0,
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Wie nennt man die Paarungszeit der Hirschen?",
+    "answers": [
+      "Bruch",
+      "Brust",
+      "Brunft",
+      "Brunch"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Welches der folgenden Worte bezeichnet keine Spielkartenfarbe?",
+    "answers": [
+      "Karo",
+      "Pik",
+      "Ass",
+      "Herz"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Was versteht man unter plausibel?",
+    "answers": [
+      "einleuchtend",
+      "aufgeblasen",
+      "unterschiedlich",
+      "fachmännisch"
+    ],
+    "correctAnswerIndex": 0,
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Wie lautet das Fremdwort für “haltbar machen“?",
+    "answers": [
+      "konzipieren",
+      "konservieren",
+      "konfiszieren",
+      "komponieren"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Was ist ein Rabatt?",
+    "answers": [
+      "Gemüsebeet",
+      "Raufbold",
+      "Rabenvater",
+      "Preisnachlass"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Was kann man mit einem Geigerzähler nachweisen?",
+    "answers": [
+      "Alkohol im Blut",
+      "Radioaktive Strahlung",
+      "Dopingmittel",
+      "Telefongebühren"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "EASY"
+  },
+  {
+    "question": "In welchem Märchen findet ein Prinz einen goldenen Schuh und heiratet am Ende dessen Besitzerin?",
+    "answers": [
+      "Hänsel und Gretel",
+      "Aschenputtel",
+      "Dornröschen",
+      "Der goldene Topf"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Wie nennt man in der Natur die feine Eisablagerung nach kalten Nächten?",
+    "answers": [
+      "Hagel",
+      "Schlidder",
+      "Softeis",
+      "Reif"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Welcher dieser Schmucksteine ist grün?",
+    "answers": [
+      "Rubin",
+      "Smaragd",
+      "Onyx",
+      "Amethyst"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Wie heißt die Nachrichtensendung, die um 20 Uhr in der ARD angestrahlt wird?",
+    "answers": [
+      "Tagesschau",
+      "Heute",
+      "Top News",
+      "Aktuelle Kamera"
+    ],
+    "correctAnswerIndex": 0,
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Wie nennt man in der Leichtathletik einen Kurzstreckenlauf?",
+    "answers": [
+      "Dribbling",
+      "Sprint",
+      "Derby",
+      "Rallye"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Was steckt sich der Hausarzt bei Bedarf in die Ohren?",
+    "answers": [
+      "Stethoskop",
+      "Horoskop",
+      "Kaleidoskop",
+      "Teleskop"
+    ],
+    "correctAnswerIndex": 0,
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Welches dieser Tiere ist in Deutschland heimisch?",
+    "answers": [
+      "Hängebauchschwein",
+      "Warzenschwein",
+      "Wildschwein",
+      "Wasserschwein"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Woraus wird Rum hergestellt?",
+    "answers": [
+      "Pflaumen",
+      "Getreide",
+      "Kartoffeln",
+      "Zuckerrohr"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Was du heute kannst besorgen, das …",
+    "answers": [
+      "hat Zeit bis übermorgen",
+      "sollst du klauen oder borgen",
+      "verschiebe nicht auf morgen",
+      "ist am Abend längst verdorben"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Was sucht man in einer Cola Light vergeblich?",
+    "answers": [
+      "Koffein ",
+      "Wasser",
+      "Kalorien",
+      "Kristallzucker"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Zu ihrem ganzen Glück brauchten die Comedian Harmonists nichts als “Wochenende und …“? ",
+    "answers": [
+      "Apfelwein",
+      "Dollarschein",
+      "Herzilein",
+      "Sonnenschein"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Durch welches Vergehen macht man sich in Deutschland strafbar?",
+    "answers": [
+      "Bibliphilie",
+      "Bigamie",
+      "Bijouterie",
+      "Biochemie"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Wie wird die Flagge der Vereinigten Staaten von Amerika genannt?",
+    "answers": [
+      "Fish and Chips",
+      "Earth, Wind and Fire",
+      "Park and Ride",
+      "Stars and Stripes"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "EASY"
+  },
+  {
+    "question": "An welchem Land grenzt Deutschland im Norden an?",
+    "answers": [
+      "England",
+      "Dänemark",
+      "Copenhagen",
+      "Norwegen"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Hinter welchem dieser Begriffe verbirgt sich ein Fenster?",
+    "answers": [
+      "Bullauge",
+      "Hühnerauge",
+      "Pfauenauge",
+      "Tigerauge"
+    ],
+    "correctAnswerIndex": 0,
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Zu welchem Staat gehören die Kanarischen Inseln?",
+    "answers": [
+      "Portugal",
+      "Frankreich",
+      "Tunesien",
+      "Spanien"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Wofür steht das Kürzel ABS?",
+    "answers": [
+      "Airbag-Stopper",
+      "Aktivbremsscheiben",
+      "Antiblockiersystem",
+      "Auto braucht Sprit"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Welche Nummer hat in Deutschland der Polizei-Notruf?",
+    "answers": [
+      "110",
+      "111",
+      "112",
+      "120"
+    ],
+    "correctAnswerIndex": 0,
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Wie nennt man den Wein, dessen Trauben vor der Lese Minustemperaturen ausgesetzt waren?",
+    "answers": [
+      "Frostmost",
+      "Eiswein",
+      "Winterlese",
+      "Schattenkabinett"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Was ist die Aorta?",
+    "answers": [
+      "Hauptschlagader",
+      "Fluss in den Alpen",
+      "Giftschlangen",
+      "Kaiserkrone"
+    ],
+    "correctAnswerIndex": 0,
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Wie nennt der Fernseher-Antiheld Al Bundy seine unterbelichtete Tochter Kelly?",
+    "answers": [
+      "Puddinghirn",
+      "Dumpfbacke",
+      "Einstein",
+      "Dämlack"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Welche Straße in New York bildet das Zentrum des amerikanischen Theatererlebens?",
+    "answers": [
+      "Subway",
+      "Broadway",
+      "Highway",
+      "Getaway"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Welches Fürstentum liegt zwischen Frankreich und Spanien?",
+    "answers": [
+      "Koriska",
+      "Österreich",
+      "Portugal",
+      "Andorra"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Welche Stadt ist die größte Australiens?",
+    "answers": [
+      "New-London",
+      "Perth",
+      "Sydney",
+      "Hobart"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Wie nennt man das Männchen der Enten?",
+    "answers": [
+      "Emmchen",
+      "Ester",
+      "Ette",
+      "Erpel"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Was ist eine Fata Morgana?",
+    "answers": [
+      "Alkoholvergiftung",
+      "Haremsdame",
+      "Luftspiegelung",
+      "Griechische Käsesuppe"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Welcher dieser Inseln gehört zu Japan?",
+    "answers": [
+      "Sylt",
+      "Hawaii",
+      "Okinawa",
+      "Madagaskar"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Welche Farbe hat die Schale einer Wassermelone?",
+    "answers": [
+      "Dunkelgrün",
+      "Rot",
+      "Schwarz",
+      "Lila"
+    ],
+    "correctAnswerIndex": 0,
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Wie viel Prozent der Stimmen reichen bei einer Wahl für eine absolute Mehrheit aus?",
+    "answers": [
+      "25 Prozent",
+      "33 Prozent",
+      "49 Prozent",
+      "51 Prozent"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Welche Nationalhymne singen die Franzosen?",
+    "answers": [
+      "Polonaise",
+      "Marseillaise",
+      "Bouillabaisse",
+      "Mayonnaise"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Was kommt sprichwörtlich vor dem Fall?",
+    "answers": [
+      "Hochhaus",
+      "Hochmut",
+      "Holzbein",
+      "Hossa"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Welcher dieser Bäume trägt Nadeln?",
+    "answers": [
+      "Eiche",
+      "Birke",
+      "Erle",
+      "Lärche"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Womit überlisteten die Griechen die Trojaner?",
+    "answers": [
+      "Holzpferd",
+      "Goldenes Kalb",
+      "Gummiadler",
+      "Marzipanschwein"
+    ],
+    "correctAnswerIndex": 0,
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Wie wird die Zuckerkrankheit noch genannt?",
+    "answers": [
+      "Dialyse",
+      "Diaphragma",
+      "Diaspora",
+      "Diabetes"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Wofür stehen die drei Buchstaben “www“ zu Beginn einer Internetadresse?",
+    "answers": [
+      "wer wie was",
+      "world wide web",
+      "weni wifi wici",
+      "weltweites Warten"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Wie nennt man einen Wissenschaftler für deutsche Sprache und Literatur?",
+    "answers": [
+      "Deutschländer",
+      "Arier",
+      "Teutoniker",
+      "Germanist"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Wie nennt man einen sehr knappen Slip?",
+    "answers": [
+      "Tango",
+      "Taco",
+      "Tundra",
+      "Tanga"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Was passiert mit Eisen, wenn es oxidiert?",
+    "answers": [
+      "es platzt",
+      "es rostet",
+      "es dampft",
+      "es tropft"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Wie nennt man eine ideal besetzte Sportmannschaft?",
+    "answers": [
+      "Bodysnatcher",
+      "Powerranger",
+      "Super Trouper",
+      "Dreamteam"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Womit erhaschen Chamäleons ihre Beute?",
+    "answers": [
+      "Zunge",
+      "Netz",
+      "Angel",
+      "Lasso"
+    ],
+    "correctAnswerIndex": 0,
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Wie wird der Innere Durchmesser von Pistolenläufen genannt?",
+    "answers": [
+      "Kandis",
+      "Kaldaune",
+      "Kaliber",
+      "Kalscheuren"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Welche schwarze, lispelnde Comicente tritt häufig zusammen mit Bugs Bunny auf?",
+    "answers": [
+      "Donald Duck",
+      "Dagobert Duck",
+      "Daisy Duck",
+      "Daffy Duck"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Welches dieser Instrumente gehört nicht zu den Streichern?",
+    "answers": [
+      "Violine",
+      "Gitarre",
+      "Bratsche",
+      "Cello"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Welche dieser Tierarten ist ausgestorben?",
+    "answers": [
+      "Pottwal",
+      "Mammut",
+      "Albatros",
+      "Rentier"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Wer entsandte 1983 erstmals Abgeordnete in den Deutschen Bundestag?",
+    "answers": [
+      "Die Grünen",
+      "SPD",
+      "PDS",
+      "SED"
+    ],
+    "correctAnswerIndex": 0,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "question": "Ein Schwager ist entweder der Bruder des Ehepartners oder der ..?",
+    "answers": [
+      "Sohn der Tante",
+      "Mann der Schwester",
+      "Bruder des Vaters",
+      " Sohn des Bruders"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "question": "In welchem Abstand findet eine Biennale statt?",
+    "answers": [
+      "einmal im Jahr",
+      "alle zwei Jahre",
+      "alle drei Jahre",
+      "alle vier Jahre"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "question": "Wie nennt man die Blutgefäße, in denen der Stoff- und Gasaustausch mit den Körperzellen erfolgt?",
+    "answers": [
+      "Balearen",
+      "Kapillaren",
+      "Balustraden",
+      "Myriaden"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "question": "Wie heißt das Gebäude des US-Parlaments in Washington?",
+    "answers": [
+      "Kapital",
+      "Kapitol",
+      "Kartell",
+      "Kapitell"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "question": "Wie wurde der Liberalisierungsprozess in der CSSR im Frühjahr 1968 genannt?",
+    "answers": [
+      "Prager Frühling",
+      "Prager Fenstersturz",
+      "Prager Schule",
+      "Prager Neustadt"
+    ],
+    "correctAnswerIndex": 0,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "question": "Zlatko sang sich an die Spitze der Charts mit dem Titel “Ich vermisse dich wie die …“?",
+    "answers": [
+      "Krätze",
+      "Galle",
+      "Hölle",
+      "Manu"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "question": "Wen heiratete John Lennon 1969?",
+    "answers": [
+      "Cosma Shiva",
+      "Mata Hari",
+      "Kawa Saki",
+      "Yoko Ono"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "question": "Welcher dieser Begriffe steht für ein Kartenspiel?",
+    "answers": [
+      "Doppelknoten",
+      "Doppelagent",
+      "Doppelkopf",
+      "Doppelpunkt"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "question": "Mit Hilfe welcher Zahl wird die Fläche eines Kreises errechnet?",
+    "answers": [
+      "Pi",
+      "Rho",
+      "Lambda",
+      "Gamma"
+    ],
+    "correctAnswerIndex": 0,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "question": "Wer fordert regelmäßig mehr Geld für Angestellte im öffentlichen Dienst?",
+    "answers": [
+      "ORF",
+      "SPÖ",
+      "ÖTV",
+      "ÖVP"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "question": "Wie heißt die Lebensabschnittsgefährtin von Robin Hood?",
+    "answers": [
+      "Mariah",
+      "Martha",
+      "Maggie",
+      "Marian"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "question": "Welches Tier findet sich auf der Flagge Berlins?",
+    "answers": [
+      "Hamster",
+      "Frosch",
+      "Falke",
+      "Bär"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "question": "Wer wurde an den Iden des Märzes des Jahres 44 v. Chr. ermordet?",
+    "answers": [
+      "Nero",
+      "Brutus",
+      "Cassius",
+      "Caesar"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "question": "Wie bezeichnet man die Verschmelzung zweier Kapitalgesellschaften?",
+    "answers": [
+      "Monopol",
+      "Deflation",
+      "Stagnation",
+      "Fusion"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "question": "Wie kürzt der Student das Bundesausbildungsförderungsgesetz ab?",
+    "answers": [
+      "BuBiFö",
+      "BFG",
+      "BauFetz",
+      "BAföG"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "question": "Welche Farbe haben die Helme der UN-Soldaten?",
+    "answers": [
+      "Schwarz",
+      "Violett",
+      "Gelb",
+      "Blau"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "question": "Welcher Bär macht sich im “Dschungelbuch“ für Mowgli zum Affen?",
+    "answers": [
+      "Shir Khan",
+      "Balu",
+      "Kaa",
+      "Babar"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "question": "Wie nennt man ein islamisches Gotteshaus?",
+    "answers": [
+      "Wigwam",
+      "Moschee",
+      "Tempel",
+      "Iglu"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "question": "Wie nennt man das Durchbohren und Durchstechen der Haut mit Körperschmuck?",
+    "answers": [
+      "Bowling",
+      "Piercing",
+      "Catering",
+      "Erding"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "question": "In welchem Fastenmonat ist gläubigen Muslims tagsüber jeder leibliche Genuss untersagt?",
+    "answers": [
+      "Koran",
+      "Schador",
+      "Ramadan",
+      "Muezzin"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "question": "Welche Sportart ist eine Mischung aus Ski-Langlauf und Schießen?",
+    "answers": [
+      "Triathlon",
+      "Echnaton",
+      "Marathon",
+      "Biathlon"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "question": "Welcher Kontinent bezeichnet seine Ureinwohner als Aborigines?",
+    "answers": [
+      "Afrika",
+      "Asien",
+      "Australien",
+      "Amerika"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "question": "Mit welchem Gerät kann man Bilder in einen Computer einlesen?",
+    "answers": [
+      "Laserdrucker",
+      "Maus",
+      "Monitor",
+      "Scanner"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "question": "Wie heißt die Hauptstadt Argentiniens?",
+    "answers": [
+      "Rio de Janeiro",
+      "Flamenco",
+      "Buenos Aires",
+      "Honduras"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "question": "Wie heißen die einander bekämpfenden weiblichen und männlichen Kräfte in der chinesischen Philosophie?",
+    "answers": [
+      "Dick und Doof",
+      "Yin und Yang",
+      "Mao und Tsetung",
+      "Mei und Meimei"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "question": "Wie heißt der Branntwein, der in Mexiko aus bestimmten Agaven gewonnen wird?",
+    "answers": [
+      "Tequila",
+      "Aquavit",
+      "Rum",
+      "Grappa"
+    ],
+    "correctAnswerIndex": 0,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "question": "Wie heißt abgekürzt die Programmiersprache, auf der das World Wide Web beruht?",
+    "answers": [
+      "CIA",
+      "HTML",
+      "FTP",
+      "ADAC"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "question": "Was wird im Fußball-Jargon als englische Woche bezeichnet?",
+    "answers": [
+      "zwei Spiele pro Woche?",
+      "nächtliche Randale",
+      "Sperre nach Platzverweis",
+      "Auskurieren einer Blessur"
+    ],
+    "correctAnswerIndex": 0,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "question": "Woraus wird der französische Cidre gemacht?",
+    "answers": [
+      "Weintrauben",
+      "Äpfel",
+      "Birnen",
+      "Gerste"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "question": "Wann ist Valentinstag?",
+    "answers": [
+      "6. Dezember",
+      "14. Februar",
+      "1. März",
+      "3. Oktober"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "question": "Was ist eine Machete?",
+    "answers": [
+      "Buschmesser",
+      "unattraktive Dame",
+      "Kleinkalibergewehr",
+      "Karneval auf Korsika"
+    ],
+    "correctAnswerIndex": 0,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "question": "Wie heißt die höchste Erhebung des Harzes?",
+    "answers": [
+      "Lumpen",
+      "Brocken",
+      "Klotten",
+      "Humpen"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "question": "Wie heißt die U-Bahn in Paris?",
+    "answers": [
+      "Motodrom",
+      "Tram",
+      "Metro",
+      "Coupé"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "question": "Wie nennt man zu Papier gebrachte Lebenserinnerungen?",
+    "answers": [
+      "Legenden",
+      "Egoismen",
+      "Epen",
+      "Memoiren"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "question": "Welche dieser Früchte ist auch ein Hut?",
+    "answers": [
+      "Banane",
+      "Papaya",
+      "Melone",
+      "Kiwi"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "question": "Was ist grammatikalisch die zweite Person Singular?",
+    "answers": [
+      "ich",
+      "wir",
+      "du",
+      "sie"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "question": "Was bedeutet auf Japanisch soviel wie “Zwergbäume“?",
+    "answers": [
+      "Kamikaze",
+      "Hirohito",
+      "Ikebana",
+      "Bonsai"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "question": "Welche Stadt liegt am Ausgang des Jadebusens?",
+    "answers": [
+      "Wilhelmshaven",
+      "Hongkong",
+      "Sydney",
+      "Kiew"
+    ],
+    "correctAnswerIndex": 0,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "question": "Was machte Judas, nachdem er Jesus verraten hatte?",
+    "answers": [
+      "er wurde Gladiator",
+      "er erhängt sich",
+      "er wurde Weinhändler",
+      "er ging ins Kloster"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "question": "Aus dem Fleisch welchen Tieres wurde ursprünglich die Salami hergestellt?",
+    "answers": [
+      "Hund",
+      "Ratte",
+      "Esel",
+      "Katze"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "question": "Wie hieß der erste Nummer-1-Hit von Britney Spears?",
+    "answers": [
+      "“Oops … I Did it Again“",
+      "“Genie In A Bottle“",
+      "“All You Need Is Love“",
+      "“Baby, One More Time“"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "question": "Welche spätere Nationalheilige Frankreichs wurde 1431 wegen angeblicher Hexerei verbrannt?",
+    "answers": [
+      "Jeanne d’Arc",
+      "Maria Stuart",
+      "Anne Boleyn",
+      "Lucrezia Borgia"
+    ],
+    "correctAnswerIndex": 0,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "question": "Wie nennt man die Endpunkte der gedachten Erdachse?",
+    "answers": [
+      "Äquator",
+      "Pole",
+      "Meridiane",
+      "Tangenten"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "question": "In welchem Jahr stand die Notre-Dame in Flammen?",
+    "answers": [
+      "2018",
+      "2020",
+      "2016",
+      "2019"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "question": "Welcher der folgenden Begriffe bezeichnet keine Verbeugung?",
+    "answers": [
+      "Diener",
+      "Kotau",
+      "Knicks",
+      "Salto"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "question": "Was bedeutet konfiszieren?",
+    "answers": [
+      "versteuern",
+      "wetteifern",
+      "verzuckern",
+      "beschlagnahmen"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "question": "Welches dieser Länder existiert nur in der Phantasie?",
+    "answers": [
+      "Abessinien",
+      "Utopia",
+      "Etrurien",
+      "Aserbaidschan"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "question": "Wie nennen Seeleute die Schiffsküche?",
+    "answers": [
+      "Kabäuschen",
+      "Kabinett",
+      "Kombüse",
+      "Kajüte"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "question": "Was ist ein Bonmot?",
+    "answers": [
+      "witzige Bemerkung",
+      "Gutschein",
+      "süße Erde",
+      "Einwohner Borneos"
+    ],
+    "correctAnswerIndex": 0,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "question": "Welchen Berufsstand symbolisiert der Äskulapstab?",
+    "answers": [
+      "Mediziner",
+      "Schäfer",
+      "Seefahrer",
+      "Tischler"
+    ],
+    "correctAnswerIndex": 0,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "question": "Welcher Preis wird bei den internationalen Filmfestspielen von Cannes verliehen?",
+    "answers": [
+      "Goldene Ananas",
+      "Goldene Palme",
+      "Goldene Zitrone",
+      "Goldener Bär"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "question": "Welches dieser Spiele ist kein Brettspiel?",
+    "answers": [
+      "Halma",
+      "Dame",
+      "Canasta",
+      "Schach"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "question": "Welche dieser Affenarten zählt nicht zu den Menschenaffen?",
+    "answers": [
+      "Gorilla",
+      "Schimpanse",
+      "Pavian",
+      "Orang-Utan"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "question": "Wie nennen Politiker einen Einspruch?",
+    "answers": [
+      "Kontra",
+      "Veto",
+      "Polarität",
+      "Korrektur"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "question": "Wie nennt man den kleinsten Abschnitt der Bibel?",
+    "answers": [
+      "Sure",
+      "Vers",
+      "Takt",
+      "Strophe"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "question": "Was ist eine Unke?",
+    "answers": [
+      "Spottdrossel",
+      "Wahrsagerin",
+      "Froschlurch",
+      "Klatschbase"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "question": "Wie nennt man das Arbeitsgestell des Malers?",
+    "answers": [
+      "Staffelei",
+      "Regal",
+      "Stellage",
+      "Display"
+    ],
+    "correctAnswerIndex": 0,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "question": "Was ist Tofu?",
+    "answers": [
+      "Schafskäse",
+      "Eierstich",
+      "Sojaquark",
+      "Fischpaste"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "question": "Wie nennt man Rennschuhe mit spitzen Stahldornen an der Sohle?",
+    "answers": [
+      "Pickles",
+      "Spikes",
+      "Kipples",
+      "Pumps"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "question": "Wie nennt man die Gebiete, die den nordamerikanischen Indianern nach ihrer Vertreibung zugewiesen wurden?",
+    "answers": [
+      "Residenzen",
+      "Reservoirs",
+      "Reservate",
+      "Ressorts"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "question": "Woraus besteht Torf?",
+    "answers": [
+      "Schwemmsand",
+      "Braunkohle",
+      "Pflanzenreste",
+      "Klärrückstände"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "question": "Was ist ein Fagott?",
+    "answers": [
+      "Koreanische Vorspeise",
+      "Haarwuchsmittel",
+      "Musikinstrument",
+      "Nervenfieber"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "question": "Zu welcher Inselgruppe gehört Lanzarote?",
+    "answers": [
+      "Balearen",
+      "Ostfriesische Inseln",
+      "Pityusen",
+      "Kanarische Inseln"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "question": "Wie heißt der Sketch, in dem Miss Sophie mit ihrem Butler James und vier abwesenden Herren Geburtstag feiert?",
+    "answers": [
+      "Warten auf Godot",
+      "Dinner for one",
+      "Das Wunder der Silvesternacht",
+      "Neujahrsspringen"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "question": "Was bedeutet das Wort Computer wörtlich übersetzt?",
+    "answers": [
+      "Schreiber",
+      "Aktenkoffer",
+      "Rechner",
+      "Datenkiste"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "question": "Was ist ein Quotient?",
+    "answers": [
+      "Aktienzuteiler",
+      "Angehörigkeit einer Minderheit",
+      "Ergebnis einer Division",
+      "Herzpatient"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "question": "Welche Zeitspanne wird in der deutschen Geschichte als Weimarer Republik bezeichnet?",
+    "answers": [
+      "1919 bis 1933",
+      "1875 bis 1914",
+      "1933 bis 1945",
+      "1813 bis 1870"
+    ],
+    "correctAnswerIndex": 0,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "question": "Wie wird China noch bezeichnet?",
+    "answers": [
+      "Reich der Mitte",
+      "Land der langen Mauer",
+      "Land der aufgehenden Sonne",
+      "Reich der acht Köstlichkeiten"
+    ],
+    "correctAnswerIndex": 0,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "question": "Wie heißt Tarzans Lieblingsaffe?",
+    "answers": [
+      "Jane",
+      "Judy",
+      "Fips",
+      "Cheetah"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "question": "Wie heißt die Hauptstadt Algeriens?",
+    "answers": [
+      "Mekka",
+      "Medina",
+      "Algier",
+      "Andorra"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "question": "Wie heißt der Internationale Automobilsportverband?",
+    "answers": [
+      "DFB",
+      "FIA",
+      "ADAC",
+      "ASV"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "question": "Wie heißt die Hauptstadt von Kenia?",
+    "answers": [
+      "Katmandu",
+      "Taipeh",
+      "Nairobi",
+      "Addis Abeba"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "question": "Was ist das Gummi in den Gummibärchen?",
+    "answers": [
+      "Silikon",
+      "Kautschuk",
+      "Latex",
+      "Gelatine"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "question": "Für wen tut sich durch die Zauberworte “Sesam, öffne dich!“ der Weg in die Schatzhöhle auf?",
+    "answers": [
+      "Aladin",
+      "Alberich",
+      "Ali Baba",
+      "Alighieri"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "question": "Was ist ein Hovercraft?",
+    "answers": [
+      "Luftdruckprüfer",
+      "Luftgewehr",
+      "Luftkissenfahrzeug",
+      "Luftschiff"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "question": "Was versteht man unter rekapitulieren?",
+    "answers": [
+      "aufgeben",
+      "wiederholen",
+      "nachzahlen",
+      "beanstanden"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "question": "Wie nennt man Überreste eines Heiligen, die als Gegenstände religiöser Verehrung dienen?",
+    "answers": [
+      "Sakrileg",
+      "Re­li­quie",
+      "Reservoir",
+      "Fragment"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "question": "Welche Stadt liegt nicht am Rhein?",
+    "answers": [
+      "Köln",
+      "Duisburg",
+      "Mainz",
+      "Kiel"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "question": "Mit welchem Begriff wird in der Physik die gegenseitige Anziehung von Massen bezeichnet?",
+    "answers": [
+      "Gratifikation",
+      "Gravur",
+      "Gräzistik",
+      "Gravitation"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "question": "Wer spiel den Indiana Jones?",
+    "answers": [
+      "Arnold Schwarzenegger",
+      "Harrison Ford",
+      "Robert Redford",
+      "Jack Nicholson"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "question": "Welches Symbol steht für die Deutsche Post?",
+    "answers": [
+      "Posthorn",
+      "Poststempel",
+      "Postkarte",
+      "Postkutsche"
+    ],
+    "correctAnswerIndex": 0,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "question": "Welche dieser Teigwaren werden nicht gefüllt?",
+    "answers": [
+      "Spätzle",
+      "Ravioli",
+      "Maultaschen",
+      "Tortellini"
+    ],
+    "correctAnswerIndex": 0,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "question": "Welche dieser Wörter bezeichnet keinen Polizisten?",
+    "answers": [
+      "Wachmann",
+      "Bobby",
+      "Cop",
+      "Pope"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "question": "Welche Farbe nehmen Krebse, Garnelen und Hummer an, wenn man sie kocht?",
+    "answers": [
+      "Gelb",
+      "Grün",
+      "Rot",
+      "Blau"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "question": "Was ist Voodoo?",
+    "answers": [
+      "Kampfsport",
+      "Videotechnik",
+      "Spieleentwicklungsfirma",
+      "Telefongesellschaft"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "question": "Welche japanischen “Pocketmonster“ stehen bei Kindern hoch im Kurs?",
+    "answers": [
+      "Potomac",
+      "Pokémon",
+      "Posh Spice",
+      "Pocahontas"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "question": "Was verarbeitet ein Kürschner?",
+    "answers": [
+      "Pelze",
+      "Fallobst",
+      "Edelhölzer",
+      "Alteisen"
+    ],
+    "correctAnswerIndex": 0,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "question": "Was ist der Paso doble?",
+    "answers": [
+      "Cocktail",
+      "Doppelgänger",
+      "Windhund",
+      "Gesellschaftstanz"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "question": "Was ist der Hauptbestandteil des Pfefferminzöls?",
+    "answers": [
+      "Benzol",
+      "Kampfer",
+      "Menthol",
+      "Terpentin"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "question": "Woraus wird Lakritze gewonnen?",
+    "answers": [
+      "Zuckerrohr",
+      "Kautschuk",
+      "Süßholz",
+      "Raps"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "question": "Was gilt in der Geschäftswelt als großzügiges Verhalten?",
+    "answers": [
+      "Kulanz",
+      "Assekuranz",
+      "Solvenz",
+      "Impertinenz"
+    ],
+    "correctAnswerIndex": 0,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "question": "Wie heißt die Landeshauptstadt von Sachsen-Anhalt?",
+    "answers": [
+      "Dresden",
+      "Magdeburg",
+      "Chemnitz",
+      "Leipzig"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "question": "Welcher Fall wird in der Grammatik auch als “Wenfall“ bezeichnet?",
+    "answers": [
+      "Nominativ",
+      "Akkusativ",
+      "Dativ",
+      "Genitiv"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "question": "Wie nennt man eine Quelle, aus der in rhythmischen Abständen eine Heißwasserfontäne schießt?",
+    "answers": [
+      "Lawine",
+      "Strudel",
+      "Vulkan",
+      "Geysir"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "question": "Wie heißt die Landeshauptstadtvon Schleswig-Holstein?",
+    "answers": [
+      "Flensburg",
+      "Kiel",
+      "Oldenburg",
+      "Cuxhaven"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "question": "“Vor der Kaserne, vor dem großen Tor ...”",
+    "answers": [
+      "stand eine Laterne",
+      "leuchten uns die Sterne",
+      "ging der Weg nach Herne",
+      "blick ich in die Ferne"
+    ],
+    "correctAnswerIndex": 0,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "question": "Wie nannten die Griechen der Antike den Ort, an dem man mit nacktem Körper Sport trieb?",
+    "answers": [
+      "Sauna",
+      "Brodellos",
+      "Gymnásion",
+      "Sodom"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "question": "Auf welchem Gelände findet das Münchner Oktoberfest statt?",
+    "answers": [
+      "Theresienwiese",
+      "Altermarkt",
+      "Olympiastadion",
+      "Englischer Garten"
+    ],
+    "correctAnswerIndex": 0,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "question": "Welches Wort benutzten die Alchemisten für Weingeist?",
+    "answers": [
+      "Rizinus",
+      "Spiritus",
+      "Terpentin",
+      "Ammoniak"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "question": "Wie nennt der Koch das Bestecken von magerem Fleisch, um es saftiger zu machen?",
+    "answers": [
+      "tranchieren",
+      "spicken",
+      "knebeln",
+      "stagnieren"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "question": "Welcher Fisch wird zum Rollmops verarbeitet?",
+    "answers": [
+      "Flunder",
+      "Forelle",
+      "Makrele",
+      "Hering"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "question": "Was ist eine Reuse?",
+    "answers": [
+      "Fischfanggerät",
+      "Hundekrankheit",
+      "Zeckenfalle",
+      "Legebatterie"
+    ],
+    "correctAnswerIndex": 0,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "question": "Was kann man in einem Synonymlexikon nachschlagen?",
+    "answers": [
+      "Kochrezepte aus Israel",
+      "Bedeutungsgleiche Wörter",
+      "Abfahrtzeiten eines Schnellzuges",
+      "Künstlername"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "question": "Wie lautet die deutsche Bezeichnung für Reptilien?",
+    "answers": [
+      "Federvieh",
+      "Tausendfüßler",
+      "Kriechtiere",
+      "Krabbelgruppe"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "question": "Welcher dieser Begriffe wird nicht im Schach verwendet?",
+    "answers": [
+      "Remis",
+      "Matt",
+      "Trumpf",
+      "Patt"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "question": "Welcher dieser Obstsorten ist keine Pflaume?",
+    "answers": [
+      "Zwetschge",
+      "Mirabelle",
+      "Reineclaude",
+      "Schattenmorelle"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "question": "Was versteht man unter dem Begriff Terrakotta?",
+    "answers": [
+      "bissiger Hund",
+      "gebrannte Tonerde",
+      "Vulkanausbruch",
+      "belgische Klöppelspitze"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "question": "Welcher König ließ das Schloss Neuschwanstein errichten?",
+    "answers": [
+      "Ludwig II.",
+      "Friedrich der Große",
+      "Wilhelm II.",
+      "Karl der Kühne"
+    ],
+    "correctAnswerIndex": 0,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "question": "Wo residiert der britische Premierminister?",
+    "answers": [
+      "Fleet Street",
+      "Downing Street",
+      "Baker Street",
+      "Coronation Street"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "question": "Wo lagert angeblich der größte Teil der US-Goldreserven?",
+    "answers": [
+      "Fort Lauderdale",
+      "West Point",
+      "Huntsville",
+      "Fort Knox"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "question": "Wofür wurde in der Schifffahrt bis 1952 das Blaue Band verliehen?",
+    "answers": [
+      "schnellste Überquerung des Pazifiks",
+      "schnellste Überquerung des Atlantiks",
+      "schnellste Überquerung des Bodensees",
+      "schnellste Überquerung der Nordsee"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "question": "Wie heißt der Farbstoff der roten Blutkörperchen?",
+    "answers": [
+      "Adrenalin",
+      "Hämoglobin",
+      "Chlorophyll",
+      "Acetylcystein"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "question": "Wie heißt der höchste Vulkan Europas?",
+    "answers": [
+      "Vesuv",
+      "Pinatubo",
+      "Ätna",
+      "Stromboli"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "question": "Was tranken die Deutschen 2019 am meisten?",
+    "answers": [
+      "Kaffee",
+      "Tee",
+      "Bier",
+      "Wasser"
+    ],
+    "correctAnswerIndex": 0,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "question": "Die des Zaubers unkundigen Menschen in den Harry-Potter-Abendteuern heißen…?",
+    "answers": [
+      "Rowlings",
+      "Hogwarts",
+      "Muggels",
+      "Askabans"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "question": "In welchem Jahr flog das Spaceshuttle das letzte mal?",
+    "answers": [
+      "2008",
+      "2011",
+      "2012",
+      "2005"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "question": "Wie heißt das Atom, welches 3 Außenelektronen hat?",
+    "answers": [
+      "Wasserstoff",
+      "Beryllium",
+      "Helium",
+      "Aluminium"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "question": "Wie nennt man eine Legierung aus Kupfer und Zinn?",
+    "answers": [
+      "Blei",
+      "Platin",
+      "Bronze",
+      "Quecksilber"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "question": "Was tanken Düsenflugzeuge?",
+    "answers": [
+      "Birkin",
+      "Karotin",
+      "Chinin",
+      "Kerosin"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "question": "Wo zahlt man mit Escudos?",
+    "answers": [
+      "Portugal",
+      "Spanien",
+      "Griechenland",
+      "Italien"
+    ],
+    "correctAnswerIndex": 0,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "question": "Was bedeutet der Ausdruck “da capo“?",
+    "answers": [
+      "alles kaputt",
+      "von unten",
+      "da vorne",
+      "noch einmal"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "question": "Was sagen Politiker häufig, wenn sie “zweiseitig“ meinen?",
+    "answers": [
+      "bilingual",
+      "bisexuell",
+      "bipolar",
+      "bilateral"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "question": "Zu welcher Tierunterordnung gehört die Blindschleiche?",
+    "answers": [
+      "Echsen",
+      "Schlangen",
+      "Kröten",
+      "Würmer"
+    ],
+    "correctAnswerIndex": 0,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "question": "Was gehört nicht zu den Geschenken der Heiligen Drei Könige?",
+    "answers": [
+      "Gold",
+      "Salbei",
+      "Myrre",
+      "Weihrauch"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "question": "Wo liegen die Appalachen?",
+    "answers": [
+      "Italien",
+      "USA",
+      "Frankreich",
+      "Argentinien"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "question": "Wer siegte 333 bei der Keilerei bei Issos?",
+    "answers": [
+      "Napoleon",
+      "Alexander",
+      "Spartacus",
+      "Hannibal"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "question": "Wie heißt das russische Parlament?",
+    "answers": [
+      "Datscha",
+      "Borschtsch",
+      "Duma",
+      "Gulag"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "question": "Worin besteht der kleine genetische Unterschied zwischen Mann und Frau?",
+    "answers": [
+      "Beta-Blocker",
+      "Vitamin C",
+      "Y-Chromosom",
+      "Gamma-Strahlen"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "question": "Ein solventer Mensch ist …?",
+    "answers": [
+      "pleite",
+      "widerborstig",
+      "redegewandt",
+      "zahlungsfähig"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "question": "Was sind Demoskopen?",
+    "answers": [
+      "Kredithaie",
+      "SPD-Politiker",
+      "Fortnite Spieler",
+      "Meinungsforscher"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "question": "Was sind Primaten?",
+    "answers": [
+      "Erdsatelliten",
+      "Camper",
+      "Herrentiere",
+      "Oberschüler"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "question": "Wie nennt der Biologe die farbgebenden Substanzen in den Zellen von Pflanzen und Tieren?",
+    "answers": [
+      "Pigmente",
+      "Streptokokken",
+      "Allergene",
+      "Mikroskop"
+    ],
+    "correctAnswerIndex": 0,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "question": "Welches gruselige Kostümfest feiern Amerikaner am Abend vor Allerheiligen?",
+    "answers": [
+      "Geburtstag",
+      "Halloween",
+      "Thanksgiving",
+      "St. Patrick´s Day"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "question": "Welchen Staat kauften die USA 1867 Alaska ab?",
+    "answers": [
+      "Kanada",
+      "Russland",
+      "England",
+      "Dänemark"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "question": "Wie nennt man in der katholischen Kirche die Lossprechung von Sünden?",
+    "answers": [
+      "Absonderung",
+      "Absolution",
+      "Absorbation",
+      "Abstoß"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "question": "Welcher dieser Inseln gehört zu den Kleinen Sundainseln?",
+    "answers": [
+      "Spiekeroog",
+      "Bali",
+      "Hawaii",
+      "Korfu"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "question": "Um was für ein Kleidungsstück handelt es sich bei einem persischen Tschador?",
+    "answers": [
+      "Männerreithose",
+      "Priesterhut",
+      "Frauenschleier",
+      "Soldatenrock"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "question": "Was bedeutet im Altgriechischen das Wort Charakter?",
+    "answers": [
+      "Atem",
+      "Bauchnabel",
+      "das Eingeprägte",
+      "Ansprechbarkeit"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "question": "Wie heißt die Hauptstadt Syriens?",
+    "answers": [
+      "Beirut",
+      "Amman",
+      "Damaskus",
+      "Jerusalem"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "question": "In welchem US-Bundesstaat liegt Las Vegas?",
+    "answers": [
+      "Nevada",
+      "Kalifornien",
+      "Texas",
+      "South Carolina"
+    ],
+    "correctAnswerIndex": 0,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "question": "Wie lautete der ursprüngliche Name von New York?",
+    "answers": [
+      "New Castle",
+      "Neu Amsterdam",
+      "New Haarlem",
+      "Neu Liverpool"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "question": "Was bedeutet der Begriff Diskothek wörtlich übersetzt?",
+    "answers": [
+      "Tanzhalle",
+      "Heiratsmarkt",
+      "Scheibensammlung",
+      "Nachtlager"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "question": "Zu welchem Staat zählt Tasmanien?",
+    "answers": [
+      "Madagaskar",
+      "Argentinien",
+      "Australien",
+      "Indonesien"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "question": "Was lässt sich in grammatikalischer Hinsicht mit einem Verb machen?",
+    "answers": [
+      "Deklinieren",
+      "Extrahieren",
+      "Konjungieren",
+      "Tranchieren"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "question": "Was ist ein Rhombus?",
+    "answers": [
+      "männliche Hornisse",
+      "mit Gas betriebener Bus",
+      "bemaltes Kirchenfenster",
+      "Viereck"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "question": "Wie nennt man die Lobrede auf einen Preisträger?",
+    "answers": [
+      "Laudatio",
+      "Tirade",
+      "Ovation",
+      "Konjugation"
+    ],
+    "correctAnswerIndex": 0,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "question": "Wie nennt man die Kegel beim Bowling?",
+    "answers": [
+      "Blocks",
+      "Pins",
+      "Pales",
+      "Posts"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "question": "Wie heißt der größte See Südamerikas?",
+    "answers": [
+      "Titicacasee",
+      "Humboldtsee",
+      "Platasee",
+      "Chacosee"
+    ],
+    "correctAnswerIndex": 0,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "question": "Was ist eine Hybride?",
+    "answers": [
+      "Kreuzung",
+      "Zapfsäule",
+      "Wasserkur",
+      "Heilpraktikerin"
+    ],
+    "correctAnswerIndex": 0,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "question": "Wie heißt die Lehre vom Herzen und den Herzkrankheiten?",
+    "answers": [
+      "Neurologie",
+      "Kardiologie",
+      "Karzinologie",
+      "Hämatologie"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "question": "Welcher Ausdruck ist in Österreich für die Johannisbeere gebräuchlich?",
+    "answers": [
+      "Zwetschke",
+      "Marille",
+      "Ribisel",
+      "Preiselbeere"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "question": "Wie nennt man die Greifvögeln ausgewürgten Klumpen unverdaulicher Nahrung?",
+    "answers": [
+      "Gewürg",
+      "Gebrechen",
+      "Gespei",
+      "Gewölle"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "question": "Welcher dieser Preise wird nicht für Filme vergeben?",
+    "answers": [
+      "César",
+      "Ingeborg-Bachmann-Preis",
+      "Goldene Palme von Cannes",
+      "Oscar"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "question": "Wie heißt der Rückschlag nach dem gegnerischen Aufschlag beim Tennis?",
+    "answers": [
+      "Return",
+      "Set Point",
+      "Slice",
+      "Net"
+    ],
+    "correctAnswerIndex": 0,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "question": "Woraus wird Biodiesel gewonnen?",
+    "answers": [
+      "Ginster",
+      "Raps",
+      "Mais",
+      "Narzisse"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "question": "Zu welcher Vogelfamilie gehört die Elster?",
+    "answers": [
+      "Drosseln",
+      "Möwen",
+      "Reiher",
+      "Rabenvögel"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "question": "Wie heißt die Landeshauptstadt Nordrhein-Westfalens?",
+    "answers": [
+      "Düsseldorf",
+      "Köln",
+      "Krefeld",
+      "Wuppertal"
+    ],
+    "correctAnswerIndex": 0,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "question": "Wie viele Finger hat Micky Maus an einer Hand?",
+    "answers": [
+      "2 Finger",
+      "3 Finger",
+      "4 Finger",
+      "5 Finger"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "question": "Welches dieser Tiere gehört nicht zu den Lurchen?",
+    "answers": [
+      "Grottenolm",
+      "Sumpfotter",
+      "Feuersalamander",
+      "Geburtshelferkröte"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "question": "Was bedeutet Film im eigentlichen Wortsinn?",
+    "answers": [
+      "Dünne Haut",
+      "Schatten",
+      "Abfolge",
+      "Mondschein"
+    ],
+    "correctAnswerIndex": 0,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "question": "In welcher Stadt ruhen die Gebeine der Heiligen Drei Könige?",
+    "answers": [
+      "Triest",
+      "Rom",
+      "Köln",
+      "Nantes"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "question": "Wie nennt man die chirurgische Korrektur der Nase?",
+    "answers": [
+      "Rhinoplastik",
+      "Zinkometrie",
+      "Pniseketion",
+      "Nasorektomie"
+    ],
+    "correctAnswerIndex": 0,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "question": "Wie nennen Seeleute die Nordsee bei Sturm?",
+    "answers": [
+      "Blaue Marie",
+      "Blanker Hans",
+      "Grüner Heinrich",
+      "Nasse Ulla"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "question": "In welcher Disziplin der Leichtathletik werden nacheinander ein “hop”, “step” und “jump” ausgeführt?",
+    "answers": [
+      "Hochsprung",
+      "Weitsprung",
+      "Dreisprung",
+      "Stabhochsprung"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "question": "Was ist eine Anämie?",
+    "answers": [
+      "Gedächtnislücke",
+      "Blutarmut",
+      "Freilassung von Gefangenen",
+      "Rhetorisches Mittel"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "question": "Welche Schachfigur darf ausschließlich diagonal über das Schachbrett geführt werden?",
+    "answers": [
+      "Dame",
+      "Turm",
+      "König",
+      "Läufer"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "question": "Wer wählt den deutschen Bundespräsidenten?",
+    "answers": [
+      "Bundesrat",
+      "Bundestag",
+      "Bundesversammlung",
+      "Bundesaufsicht"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "question": "Wie bezeichnet man die kosmologische Urknall-Theorie noch?",
+    "answers": [
+      "Big Bang",
+      "Big Baff",
+      "Big Bum",
+      "Big Bug"
+    ],
+    "correctAnswerIndex": 0,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "question": "Wo findet die Kunstausstellung “documenta” statt?",
+    "answers": [
+      "München",
+      "Düsseldorf",
+      "Leipzig",
+      "Kassel"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "question": "Was entdeckte Robert Koch?",
+    "answers": [
+      "Vitamine",
+      "Bikini-Atoll",
+      "Kalorien",
+      "Tuberkelbazillus"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "question": "Wer von diesen vieren ist kein Vogel?",
+    "answers": [
+      "Wellensittich",
+      "Pfauenauge",
+      "Goldammer",
+      "Rotkehlchen"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "question": "Wie heißt das Getränk, das man sich nach dem Essen gönnt?",
+    "answers": [
+      "Amuse-Gueule",
+      "Digestif",
+      "Bombe finale",
+      "Aperitif"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "question": "Unter welchem Syndrom leidet ein stets müder und gleichgültiger Mitarbeiter?",
+    "answers": [
+      "Mobbing",
+      "Key-Account",
+      "Burnout",
+      "Outsourcing"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "question": "Was speichern Kamele in ihren Höckern?",
+    "answers": [
+      "Luft",
+      "Fett",
+      "Milch",
+      "Urin"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "question": "Wo entwarfen 12 Staats- und Regierungschefs im Dezember 1991 die Europäische Union?",
+    "answers": [
+      "Wien",
+      "Liverpool",
+      "Hamburg",
+      "Maastricht"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "question": "Was streut man normalerweise auf sein Frühstücksei?",
+    "answers": [
+      "Ammoniumnitrat",
+      "Calciumcarbonat",
+      "Natriumchlorid",
+      "Paracetamol"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "question": "Welcher der folgenden Ausdrücke wird nicht für Pferde benutzt?",
+    "answers": [
+      "Mähre",
+      "Klepper",
+      "Gaul",
+      "Bache"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "question": "Wie heißt der längste Fluss Europas?",
+    "answers": [
+      "Rhein",
+      "Donau",
+      "Elbe",
+      "Wolga"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "question": "Welcher Begriff gab dem Pfifferling seinen Namen?",
+    "answers": [
+      "Pfeifer",
+      "Pfeiler",
+      "Pfeffer",
+      "Pfaffe"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "question": "Wie nennt man das Schlusswort des Verteidigers oder Staatsanwaltes vor Gericht?",
+    "answers": [
+      "Predigt",
+      "Prolog",
+      "Referat",
+      "Plädoyer"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "question": "Welches der folgenden Metalle ist nicht radioaktiv?",
+    "answers": [
+      "Radium",
+      "Plutonium",
+      "Uran",
+      "Vanadium"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "question": "Welche Tiere gehören zur Familie der Felidae?",
+    "answers": [
+      "Hunde",
+      "Katzen",
+      "Vögel",
+      "Hamster"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "question": "Woher kommt die aus der Werbung bekannte Piemont-Kirsche?",
+    "answers": [
+      "Spanien",
+      "Frankreich",
+      "Italien",
+      "Kroatien"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "question": "Wie heißt die größte Stadt Afrikas?",
+    "answers": [
+      "Kapstadt",
+      "Nairobi",
+      "Kairo",
+      "Johannesburg"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "question": "Welcher dieser südamerikanischen Länder besitzt keine Meeresküste?",
+    "answers": [
+      "Kolumbien",
+      "Brasilien",
+      "Bolivien",
+      "Ecuador"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "question": "Wie lautete der Name des Buddha vor seiner Erleuchtung?",
+    "answers": [
+      "Mahatma Gandhi",
+      "Tadsch Mahal",
+      "Krishna Vishnu",
+      "Siddharta Gautama"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "question": "Welcher dieser Künstler bezeichnet man als bildenden Künstler?",
+    "answers": [
+      "Maler",
+      "Schauspieler",
+      "Lyriker",
+      "Komponist"
+    ],
+    "correctAnswerIndex": 0,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "question": "Was untersuchen Petrologen?",
+    "answers": [
+      "Gestein",
+      "Darmkrankheiten",
+      "Öltanker",
+      "Russische Geschichte"
+    ],
+    "correctAnswerIndex": 0,
+    "difficulty": "HARD"
+  },
+  {
+    "question": "Wie nennen Kaufleute den letzten Tag des Monats?",
+    "answers": [
+      "Exitus",
+      "Finish",
+      "Ultimo",
+      "Finale"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "HARD"
+  },
+  {
+    "question": "Wem verdankt der Teddybär seinen Namen?",
+    "answers": [
+      "Telly Savalas",
+      "Ted Turner",
+      "Theodore Roosevelt",
+      "Prinz Edward"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "HARD"
+  },
+  {
+    "question": "Welcher Konfession gehörte John F. Kennedy an?",
+    "answers": [
+      "buddhistisch",
+      "römisch-katholisch",
+      "jüdisch",
+      "puritanisch"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "HARD"
+  },
+  {
+    "question": "Wer erfand den Blitzableiter?",
+    "answers": [
+      "Franklin D. Roosevelt",
+      "Henry Ford",
+      "Thomas A. Edison",
+      "Benjamin Franklin"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "HARD"
+  },
+  {
+    "question": "Wie nennt man die kulturelle Bewegung in Europa im Übergang vom Mittelalter zur Neuzeit?",
+    "answers": [
+      "Renaissance",
+      "Barock",
+      "Klassizismus",
+      "Romantik"
+    ],
+    "correctAnswerIndex": 0,
+    "difficulty": "HARD"
+  },
+  {
+    "question": "Wer war August Bebel?",
+    "answers": [
+      "General im 1. Weltkrieg",
+      "Erster Vorsitzender der SED",
+      "Olympiasieger im Dressurreiten",
+      "Mitgründer der SPD"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "HARD"
+  },
+  {
+    "question": "Wer erfand den Viertaktmotor?",
+    "answers": [
+      "Gottlieb Daimler",
+      "Carl Benz",
+      "Rudolf Diesel",
+      "Nikolaus Otto"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "HARD"
+  },
+  {
+    "question": "Wie nennt man die im Wasser treibenden pflanzlichen und tierischen Kleinstlebewesen?",
+    "answers": [
+      "Krill",
+      "Plankton",
+      "Tang",
+      "Mikrotom"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "HARD"
+  },
+  {
+    "question": "Wie nennt man ein Bauwerk mit einem achteckigen Grundriss?",
+    "answers": [
+      "Pentagon",
+      "Octopus",
+      "Pantaleon",
+      "Oktogon"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "HARD"
+  },
+  {
+    "question": "Welches Metall wird mit Kupfer legiert, um Messing zu erhalten?",
+    "answers": [
+      "Eisen",
+      "Zink",
+      "Silber",
+      "Blei"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "HARD"
+  },
+  {
+    "question": "Wie lautet der deutsche Begriff für Konsonant?",
+    "answers": [
+      "Umlaut",
+      "Mitlaut",
+      "Vorlaut",
+      "Selbstlaut"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "HARD"
+  },
+  {
+    "question": "Was bekommt man, wenn man in einem Restaurant in Österreich Karfiol bestellt?",
+    "answers": [
+      "Spitzkohl",
+      "Weißkohl",
+      "Blumenkohl",
+      "Rotkohl"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "HARD"
+  },
+  {
+    "question": "Welcher der folgenden Personen wurde nicht in Wien geboren?",
+    "answers": [
+      "Romy Schneider",
+      "Wolfgang Amadeus Mozart",
+      "Niki Lauda",
+      "Peter Alexander"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "HARD"
+  },
+  {
+    "question": "Welches Gewand gehört nicht zur Garderobe der alten Römer?",
+    "answers": [
+      "Stola",
+      "Burnus",
+      "Tunika",
+      "Toga"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "HARD"
+  },
+  {
+    "question": "Zu welcher Band gehört der ehemalige Friseur Thomas D.?",
+    "answers": [
+      "Die Fantastischen 4",
+      "Rödelheim Hartreim",
+      "Rammstein",
+      "Wolfsheim"
+    ],
+    "correctAnswerIndex": 0,
+    "difficulty": "HARD"
+  },
+  {
+    "question": "Welcher Begriff aus dem Kasino-Jargon steht für besonders bedeutende Aktiengesellschaften?",
+    "answers": [
+      "Blue Chips",
+      "Rouge ou noir",
+      "Zero-Bounds",
+      "Jetons"
+    ],
+    "correctAnswerIndex": 0,
+    "difficulty": "HARD"
+  },
+  {
+    "question": "Wie nennt man Nadelhölzer noch?",
+    "answers": [
+      "Koryphäen",
+      "Korinthen",
+      "Koniferen",
+      "Koriander"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "HARD"
+  },
+  {
+    "question": "Wie nennt man die längste Seite eines rechtwinkligen Dreiecks?",
+    "answers": [
+      "Hypotenuse",
+      "Tangente",
+      "Sekante",
+      "Kathete"
+    ],
+    "correctAnswerIndex": 0,
+    "difficulty": "HARD"
+  },
+  {
+    "question": "Wie heißt die Hauptstadt von Mecklenburg-Vorpommern?",
+    "answers": [
+      "Rostock",
+      "Greifswald",
+      "Magdeburg",
+      "Schwerin"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "HARD"
+  },
+  {
+    "question": "Was sind die Salomonen?",
+    "answers": [
+      "Virenstamm",
+      "Inselgruppe",
+      "Forellen",
+      "Satanisten"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "HARD"
+  },
+  {
+    "question": "Wie bezeichnet man in der Informatik eine Sicherungskopie auf einem zweiten Datenträger?",
+    "answers": [
+      "Download",
+      "Plug In",
+      "Backup",
+      "Scroll"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "HARD"
+  },
+  {
+    "question": "Woraus wird Safran gewonnen?",
+    "answers": [
+      "Tuple",
+      "Rose",
+      "Krokus",
+      "Orchidee"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "HARD"
+  },
+  {
+    "question": "Wie nennt man in der Schifffahrt die dem Wind zugewandte Seite des Schiffes?",
+    "answers": [
+      "Lee",
+      "Backbord",
+      "Luv",
+      "Steuerbord"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "HARD"
+  },
+  {
+    "question": "Wie heißt die Hauptstadt Afghanistans?",
+    "answers": [
+      "Paschtu",
+      "Kabul",
+      "Rabbani",
+      "Hazara"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "HARD"
+  },
+  {
+    "question": "Was versteht man unter Ökotrophologie?",
+    "answers": [
+      "Ernährungswissenschaft",
+      "Umweltschutz",
+      "Heimlichtuerei",
+      "biologische Düngung"
+    ],
+    "correctAnswerIndex": 0,
+    "difficulty": "HARD"
+  },
+  {
+    "question": "Welches Gemüse bezeichnet man auch als Spargelkohl?",
+    "answers": [
+      "Broccoli",
+      "Radieschen",
+      "Kohlrabi",
+      "Wirsing"
+    ],
+    "correctAnswerIndex": 0,
+    "difficulty": "HARD"
+  },
+  {
+    "question": "Was bezeichnet man als Aurora borealis?",
+    "answers": [
+      "Schwarze Orchidee",
+      "Polarlicht",
+      "Tiefseebeben",
+      "Kinderhochzeit"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "HARD"
+  },
+  {
+    "question": "Wie heißt die größte Provinz Finnlands?",
+    "answers": [
+      "Putzi",
+      "Lappi",
+      "Pappi",
+      "Suppi"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "HARD"
+  },
+  {
+    "question": "Welches Satzzeichen wird auch Kolon genannt?",
+    "answers": [
+      "Punkt",
+      "Komma",
+      "Doppelpunkt",
+      "Fragezeichen"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "HARD"
+  },
+  {
+    "question": "Was ist ein Labradorit?",
+    "answers": [
+      "Hunderasse",
+      "Schmuckstein",
+      "Himmelskörper",
+      "Klugschwätzer"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "HARD"
+  },
+  {
+    "question": "Was liebt der Philanthrop?",
+    "answers": [
+      "Tiere",
+      "Menschen",
+      "Pflanzen",
+      "Pilze"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "HARD"
+  },
+  {
+    "question": "Welche der folgenden Kulturpflanzen ist kein Getreide?",
+    "answers": [
+      "Roggen",
+      "Dinkel",
+      "Hafer",
+      "Buchweizen"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "HARD"
+  },
+  {
+    "question": "Wann wurde Tetris veröffentlicht?",
+    "answers": [
+      "1984",
+      "1628",
+      "2010",
+      "1950"
+    ],
+    "correctAnswerIndex": 0,
+    "difficulty": "HARD"
+  },
+  {
+    "question": "Was für ein Tier ist die Kellerassel?",
+    "answers": [
+      "Krebs",
+      "Zecke",
+      "Insekt",
+      "Spinne"
+    ],
+    "correctAnswerIndex": 0,
+    "difficulty": "HARD"
+  },
+  {
+    "question": "Welches dieser Wörter ist kein Palindrom?",
+    "answers": [
+      "Reliefpfeiler",
+      "Pascha",
+      "Rentner",
+      "Anna"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "HARD"
+  },
+  {
+    "question": "Was bedeutet Rock ’n’ Roll wörtlich übersetzt?",
+    "answers": [
+      "tanzen und rollen",
+      "wiegen und rollen",
+      "singen und rollen",
+      "klatschen und rollen"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "HARD"
+  },
+  {
+    "question": "Auf welcher Insel liegt Tokio?",
+    "answers": [
+      "Borneo",
+      "Honshu",
+      "Luzon",
+      "Hokkaido"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "HARD"
+  },
+  {
+    "question": "Wie hieß der erste von den Amerikanern entwickelte wiederverwendbare Spaceshuttle?",
+    "answers": [
+      "Columbia",
+      "Enterprise",
+      "Atlantis",
+      "Voyager"
+    ],
+    "correctAnswerIndex": 0,
+    "difficulty": "HARD"
+  },
+  {
+    "question": "Zu welcher Tierklasse gehören die Skorpione?",
+    "answers": [
+      "Insekten",
+      "Spinnentiere",
+      "Säugetiere",
+      "Reptilien"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "HARD"
+  },
+  {
+    "question": "Wie viele Nullen hat die Zahl, die man in Deutschland als Trillion bezeichnet?",
+    "answers": [
+      "12",
+      "15",
+      "18",
+      "21"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "HARD"
+  },
+  {
+    "question": "Wie heißt der Miniroboter mit Glühbirnenkopf, der Daniel Düsentrieb unter die Arme greift?",
+    "answers": [
+      "Kleine Leuchte",
+      "Helferlein",
+      "Funkenmännchen",
+      "Abraxas"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "HARD"
+  },
+  {
+    "question": "Wen widmenten die Germanen den Donnerstag?",
+    "answers": [
+      "Thor",
+      "Wotan",
+      "Tyr",
+      "Baldr"
+    ],
+    "correctAnswerIndex": 0,
+    "difficulty": "HARD"
+  },
+  {
+    "question": "Wer erfand den fetten Comic-Kater Garfield?",
+    "answers": [
+      "Jim Davis",
+      "Carl Barks",
+      "Dik Browne",
+      "Matt Groening"
+    ],
+    "correctAnswerIndex": 0,
+    "difficulty": "HARD"
+  },
+  {
+    "question": "Was bedeutete das Wort Biskuit ursprünglich?",
+    "answers": [
+      "mit Honig gefüllt",
+      "schaumig geschlagen",
+      "Weizenmantel",
+      "zweimal gekocht"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "HARD"
+  },
+  {
+    "question": "Welches dieser Schiffe gehörte nicht zu Kolumbus’ Expedition von 1492?",
+    "answers": [
+      "Mayflower",
+      "Pinta",
+      "Niña",
+      "Santa María"
+    ],
+    "correctAnswerIndex": 0,
+    "difficulty": "HARD"
+  },
+  {
+    "question": "Für welche Berufsgruppe wurde der Trenchcoat ursprünglich gefertigt?",
+    "answers": [
+      "Torfstecher",
+      "Förster",
+      "Soldaten",
+      "Detektive"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "HARD"
+  },
+  {
+    "question": "Was ist Genealogie?",
+    "answers": [
+      "Ahnenforschung",
+      "Vererbungslehre",
+      "Gesteinskunde",
+      "Erziehungswissenschaft"
+    ],
+    "correctAnswerIndex": 0,
+    "difficulty": "HARD"
+  },
+  {
+    "question": "Welche Kunstepoche löste in Europa das Barock ab?",
+    "answers": [
+      "Rokoko",
+      "Jugendstil",
+      "Kubismus",
+      "Gotik"
+    ],
+    "correctAnswerIndex": 0,
+    "difficulty": "HARD"
+  },
+  {
+    "question": "Was bedeutete ursprünglich das Wort Zeitung?",
+    "answers": [
+      "Morgen",
+      "Nachricht",
+      "Todesfall",
+      "Marktplatz"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "HARD"
+  },
+  {
+    "question": "Worunter leidet ein Patienten, dem Adipositas bescheinigt wird?",
+    "answers": [
+      "Magersucht",
+      "Alkoholsucht",
+      "Spielsucht",
+      "Fettsucht"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "HARD"
+  },
+  {
+    "question": "Aus welchem Land stammt ursprünglich das Rugby?",
+    "answers": [
+      "England",
+      "Australien",
+      "Schottland",
+      "USA"
+    ],
+    "correctAnswerIndex": 0,
+    "difficulty": "HARD"
+  },
+  {
+    "question": "Was soll bei einem Theaterbrand die Ausbreitung des Feuers verhindern?",
+    "answers": [
+      "eiserne Lunge",
+      "eiserne Jungfrau",
+      "eiserner Vorhang",
+      "eiserne Maske"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "HARD"
+  },
+  {
+    "question": "Wie lange dauert eine Amtsperiode des französischen Staatspräsidenten?",
+    "answers": [
+      "fünf Jahre",
+      "sieben Jahre",
+      "vier Jahre",
+      "ein Jahr"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "HARD"
+  },
+  {
+    "question": "Was bedeutet das Wort “Christus”?",
+    "answers": [
+      "König",
+      "Gekreuzigter",
+      "Gesalbter",
+      "Herr"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "HARD"
+  },
+  {
+    "question": "Aus welchem chemischen Elementen besteht das Ozon?",
+    "answers": [
+      "Sauerstoff",
+      "Wasserstoff",
+      "Stickstoff",
+      "Kohlenstoff"
+    ],
+    "correctAnswerIndex": 0,
+    "difficulty": "HARD"
+  },
+  {
+    "question": "Wie lautet der geläufigere Name der Insel Kalaallit Nunaat?",
+    "answers": [
+      "Madagaskar",
+      "Grönland",
+      "Borneo",
+      "Java"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "HARD"
+  },
+  {
+    "question": "Welche Großkatze kann als einige ihre Krallen nicht vollständig einziehen?",
+    "answers": [
+      "Gepard",
+      "Löwe",
+      "Leopard",
+      "Jaguar"
+    ],
+    "correctAnswerIndex": 0,
+    "difficulty": "HARD"
+  },
+  {
+    "question": "Was ist eine Glyptothek?",
+    "answers": [
+      "Skulpturensammlung",
+      "Wachsfigurenkabinett",
+      "Museumsrestaurant",
+      "Kupfersticharchiv"
+    ],
+    "correctAnswerIndex": 0,
+    "difficulty": "HARD"
+  },
+  {
+    "question": "Wie lautet der frühere Name von Taiwan?",
+    "answers": [
+      "Ceylon",
+      "Formosa",
+      "Mandschurei",
+      "Macao"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "HARD"
+  },
+  {
+    "question": "Welche der folgenden Pflanzen gibt es tatsächlich?",
+    "answers": [
+      "Pestwurz",
+      "Cholerawurz",
+      "Syphiliswurz",
+      "Mumpswurz"
+    ],
+    "correctAnswerIndex": 0,
+    "difficulty": "HARD"
+  },
+  {
+    "question": "Was versteht man unter einem Piktogramm?",
+    "answers": [
+      "Eilbrief",
+      "Bildsymbol",
+      "Werbeplakat",
+      "Sportzeitung"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "HARD"
+  },
+  {
+    "question": "Woher stammt die Friedensnobelpreisträgerin Mutter Teresa?",
+    "answers": [
+      "Spanien",
+      "Italien",
+      "Albanien",
+      "Griechenland"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "HARD"
+  },
+  {
+    "question": "Wie heißt die Hauptstadt von Kanada?",
+    "answers": [
+      "Ottawa",
+      "Toronto",
+      "Quebec",
+      "Montreal"
+    ],
+    "correctAnswerIndex": 0,
+    "difficulty": "HARD"
+  },
+  {
+    "question": "Wohin geht man, wenn man einen Termin beim Ökologen hat?",
+    "answers": [
+      "Umweltbeauftragter",
+      "Tierzüchter",
+      "Weinfachmann",
+      "Schönheitschirurg"
+    ],
+    "correctAnswerIndex": 0,
+    "difficulty": "HARD"
+  },
+  {
+    "question": "Was gehört zur Familie der Korbblütler?",
+    "answers": [
+      "Sonnenblume",
+      "Tulpe",
+      "Veilchen",
+      "Rose"
+    ],
+    "correctAnswerIndex": 0,
+    "difficulty": "HARD"
+  },
+  {
+    "question": "Wie heißt die Hauptstadt von Pakistan?",
+    "answers": [
+      "Neu-Delhi",
+      "Islamabad",
+      "Karatschi",
+      "Rangun"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "HARD"
+  },
+  {
+    "question": "Welches japanische Kugelfischgericht ist - unsachgemäß zubereitet - eine hochgiftige Speise?",
+    "answers": [
+      "Takeshi",
+      "Galma",
+      "Surimi",
+      "Fugu"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "HARD"
+  },
+  {
+    "question": "Was ist die Amtssprache von Angola?",
+    "answers": [
+      "Englisch",
+      "Spanisch",
+      "Portugiesisch",
+      "Französisch"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "HARD"
+  },
+  {
+    "question": "Wie hieß der erste europäische Verein, bei dem Fußball-Star Ronaldo stürmte?",
+    "answers": [
+      "FC Barcelona",
+      "Standard Lüttich",
+      "FC Zürich",
+      "PSV Eindhoven"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "HARD"
+  },
+  {
+    "question": "Was bekommt man wenn man in Norddeutschland Plinsen bestellt?",
+    "answers": [
+      "Bratklopse",
+      "Linsenbratlinge",
+      "Eierkuchen",
+      "Butterkekse"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "HARD"
+  },
+  {
+    "question": "Was ist ein Mezzanin?",
+    "answers": [
+      "Vorsänger",
+      "Zwischengeschoss",
+      "Pausenclown",
+      "Gebetsrufer"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "HARD"
+  },
+  {
+    "question": "Welchen Schmetterling gibt es tatsächlich?",
+    "answers": [
+      "Punktfalter",
+      "Kommafalter",
+      "Doppelpunktfalter",
+      "Semikolonfalter"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "HARD"
+  },
+  {
+    "question": "In welchem Organ wird das Hormon Insulin gebildet?",
+    "answers": [
+      "Nebennierenrinde",
+      "Gallenblase",
+      "Bauchspeicheldrüse",
+      "Hypophyse"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "HARD"
+  },
+  {
+    "question": "Welcher dieser Farbtöne ist ein Rot?",
+    "answers": [
+      "ocker",
+      "karmin",
+      "umbra",
+      "azur"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "HARD"
+  },
+  {
+    "question": "Welches Gift können Kartoffeln bei zu starker Lichteinwirkung bilden?",
+    "answers": [
+      "Leptinoin",
+      "Solanin",
+      "Sacchalin",
+      "Patatin"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "HARD"
+  },
+  {
+    "question": "Welche Insel gehört nicht zu den Ostfriesischen Inseln?",
+    "answers": [
+      "Norderney",
+      "Wangerooge",
+      "Juist",
+      "Amrum"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "HARD"
+  },
+  {
+    "question": "Woraus werden Kerzen heute meist gefertigt?",
+    "answers": [
+      "Stearin",
+      "Cadaverin",
+      "Saccharin",
+      "Glyzerin"
+    ],
+    "correctAnswerIndex": 0,
+    "difficulty": "HARD"
+  },
+  {
+    "question": "In welcher Stadt tat Richard Wagner seinen letzten Atemzug?",
+    "answers": [
+      "Paris",
+      "Bayreuth",
+      "Venedig",
+      "Augsburg"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "HARD"
+  },
+  {
+    "question": "Was bedeutete das Wort katholisch ursprünglich?",
+    "answers": [
+      "allgemein",
+      "heilig",
+      "geistlich",
+      "erlösend"
+    ],
+    "correctAnswerIndex": 0,
+    "difficulty": "HARD"
+  },
+  {
+    "question": "Wie wird in der griechischen Mythologie der Zustand der Welt bezeichnet, bevor die Erde entstand?",
+    "answers": [
+      "Chaos",
+      "Babel",
+      "Universum",
+      "Nirvana"
+    ],
+    "correctAnswerIndex": 0,
+    "difficulty": "HARD"
+  },
+  {
+    "question": "Was versteht man unter einem Madrigal?",
+    "answers": [
+      "Bürgermeister",
+      "gesungenes Liebesgedicht",
+      "Hochschulabschluss",
+      "spanisches Schloss"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "HARD"
+  },
+  {
+    "question": "Wie heißen die Gefäße, in denen die alten Ägypter die Eingeweide von Verstorbenen beisetzten?",
+    "answers": [
+      "Kanonaden",
+      "Kanonissen",
+      "Kantaten",
+      "Kanopen"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "HARD"
+  },
+  {
+    "question": "Welcher dieser US-Präsidenten war am längsten im Amt?",
+    "answers": [
+      "John F. Kennedy",
+      "Richard Nixon",
+      "George Washington",
+      "Franklin D. Roosevelt"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "HARD"
+  },
+  {
+    "question": "Welche Internet-Adresse muss man eingeben, um die offizielle Homepage des Weißen Hauses zu erreichen?",
+    "answers": [
+      "www.whitehouse.de",
+      "www.whitehouse.com",
+      "www.whitehouse.uk",
+      "www.whitehouse.gov"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "HARD"
+  },
+  {
+    "question": "Wozu dient das Züngeln einer Schlange hauptsächlich?",
+    "answers": [
+      "schwitzen",
+      "tasten",
+      "riechen",
+      "Sauerstoff aufnehmen"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "HARD"
+  },
+  {
+    "question": "Zu welcher Pflanzenfamilie gehört die Erdnuss?",
+    "answers": [
+      "Schmetterlingsblütler",
+      "Orchideen",
+      "Rosengewächse",
+      "Kreuzdorngewächse"
+    ],
+    "correctAnswerIndex": 0,
+    "difficulty": "HARD"
+  },
+  {
+    "question": "Wie hieß der Namensgeber der Alzheimerkrankheit mit Vornamen?",
+    "answers": [
+      "Alois",
+      "Bernhard",
+      "Werner",
+      "Hartmut"
+    ],
+    "correctAnswerIndex": 0,
+    "difficulty": "HARD"
+  },
+  {
+    "question": "Aus welchem Hefegebäck wird durch nochmaliges Backen Zwieback Hergestellt?",
+    "answers": [
+      "Mürbeteig",
+      "Spekulatius",
+      "Einback",
+      "Vorwerk"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "HARD"
+  },
+  {
+    "question": "In welchem Land erschienen 1840 die ersten Briefmarken der Welt?",
+    "answers": [
+      "Deutschland",
+      "Frankreich ",
+      "Großbritannien",
+      "Spanien"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "HARD"
+  },
+  {
+    "question": "Wo fanden 1952 die Olympischen Winterspiele statt?",
+    "answers": [
+      "Innsbruck",
+      "Sankt Moritz",
+      "Oslo",
+      "Lake Placid"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "HARD"
+  },
+  {
+    "question": "Wie heißt der größte See Europas?",
+    "answers": [
+      "Vänersee",
+      "Aralsee",
+      "Ladogasee",
+      "Bodensee"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "HARD"
+  },
+  {
+    "question": "Wofür erntete Gerhard Schröder einen Eintrag in das Guiness-Buch der Rekorde 200?",
+    "answers": [
+      "Auftritt in TV-Serie",
+      "jüngster Kanzler",
+      "Zigarrensammlung",
+      "Kanzler, der 4 Mal heiratete"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "HARD"
+  },
+  {
+    "question": "Welches Tier besitzt kein Elfenbein?",
+    "answers": [
+      "Nashorn",
+      "Elefant",
+      "Walross",
+      "Flusspferd"
+    ],
+    "correctAnswerIndex": 0,
+    "difficulty": "HARD"
+  },
+  {
+    "question": "Was sind Argument?",
+    "answers": [
+      "Pfluggeräte",
+      "Ackergäule",
+      "Zitrusfrüchte",
+      "Römische Seher"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "HARD"
+  },
+  {
+    "question": "Welcher dieser Bierarten ist obergäriges gebraut?",
+    "answers": [
+      "Kölsch",
+      "Pils",
+      "Lager",
+      "Export"
+    ],
+    "correctAnswerIndex": 0,
+    "difficulty": "HARD"
+  },
+  {
+    "question": "Was wurde mit dem foucaultschen Pendel bewiesen?",
+    "answers": [
+      "Sonnenzentrismus",
+      "Kontinentaldrift",
+      "Erdrotation",
+      "Magnetismus"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "HARD"
+  },
+  {
+    "question": "Womit beschäftigt sich ein Androloge?",
+    "answers": [
+      "Männerheilkunde",
+      "Tierheilkunde",
+      "Sprachheilkunde",
+      "Ohrenheilkunde"
+    ],
+    "correctAnswerIndex": 0,
+    "difficulty": "HARD"
+  },
+  {
+    "question": "Wie alt muss ein Deutscher mindestens sein, um für das Bundespräsidentenamt kandidieren zu dürfen?",
+    "answers": [
+      "30",
+      "16",
+      "18",
+      "40"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "HARD"
+  },
+  {
+    "question": "Welcher Planet umkreist die Sonne in nur 88 Tagen?",
+    "answers": [
+      "Mars",
+      "Merkur",
+      "Venus",
+      "Uranus"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "HARD"
+  },
+  {
+    "question": "Was entwickelte Timothy Berners-Lee 1989 für das Kernforschungszentrum CERN in Genf?",
+    "answers": [
+      "Auto mit Uran-Antrieb",
+      "Marssonde",
+      "World Wide Web",
+      "CD-Rom"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "HARD"
+  },
+  {
+    "question": "In welchem Film will Woody Allen alias Jimmy Bond alle Männer töten, die größer als 1,40 Meter sind?",
+    "answers": [
+      "Der Stadtneurotiker",
+      "Casino Royale",
+      "Ice Age",
+      "Bananas"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "HARD"
+  },
+  {
+    "question": "Was ist eine Eloge?",
+    "answers": [
+      "Ehrenplatz",
+      "Lobrede",
+      "Hochsitz",
+      "Spannungsprüfer"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "HARD"
+  },
+  {
+    "question": "Wie nennen die Jäger einen Tierkadaver?",
+    "answers": [
+      "Morchel",
+      "Losung",
+      "Balg",
+      "Luder"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "HARD"
+  },
+  {
+    "question": "Welches Land hat eine Staatsflagge mit rotem Kreis auf grünem Grund?",
+    "answers": [
+      "Griechenland",
+      "Japan",
+      "Bangladesch",
+      "Südkorea"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "HARD"
+  },
+  {
+    "question": "Was ist nach der ursprünglichen Wortbedeutung der einzige Besitz von Proletariern?",
+    "answers": [
+      "Kraft",
+      "Kinder",
+      "Lohn",
+      "Bett"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "HARD"
+  },
+  {
+    "question": "Welcher der Großen Seen Nordamerikas gehört als einziger komplett zum Staatsgebiet der USA?",
+    "answers": [
+      "Huronsee",
+      "Michigansee",
+      "Ontariosee",
+      "Eriesee"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "HARD"
+  },
+  {
+    "question": "Was bedeutet der vietnamesische Name Ho Chi Minh wörtlich übersetzt?",
+    "answers": [
+      "der Gütige",
+      "der Erleuchtete",
+      "der Tiger",
+      "der Standhafte"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "HARD"
+  },
+  {
+    "question": "Wer gründete 1835 Melbourne?",
+    "answers": [
+      "William Superman",
+      "John Batman",
+      "George Spiderman",
+      "Tom Fatman"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "HARD"
+  },
+  {
+    "question": "Wer war der direkte Vorgänger Karajans als musikalische Leiter der Berliner Philharmoniker?",
+    "answers": [
+      "Willhelm Furtwängler",
+      "Leonard Bernstein",
+      "Paul Hindemith",
+      "Yehudi Menuhin"
+    ],
+    "correctAnswerIndex": 0,
+    "difficulty": "HARD"
+  },
+  {
+    "question": "Was bedeutet das griechische Wort “sarx“, von dem sich der Begriff Sarkasmus ableitet?",
+    "answers": [
+      "Teufel",
+      "Fluch",
+      "Messer ",
+      "Fleisch"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "HARD"
+  },
+  {
+    "question": "Wie lautet der althochdeutsche Wortursprung von Mittwoch?",
+    "answers": [
+      "mittawehha",
+      "mettiwich",
+      "middilwech",
+      "muddewach"
+    ],
+    "correctAnswerIndex": 0,
+    "difficulty": "HARD"
+  },
+  {
+    "question": "Wer war der Begründer der physikalischen Chemie in Deutschland und gewann 1909 den Chemie-Nobelpreis?",
+    "answers": [
+      "Wilhelm Ostwald",
+      "Herr Étienne",
+      "Arthur Niekisch",
+      "Manfred Eigen"
+    ],
+    "correctAnswerIndex": 0,
+    "difficulty": "HARD"
+  },
+  {
+    "question": "Was wurde erstmals am 8. Mai 1954 ausgestrahlt?",
+    "answers": [
+      "Tagesschau",
+      "Plusminus",
+      "Tatort",
+      "Das Wort zum Sonntag"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "HARD"
+  },
+  {
+    "question": "Laut Immanuel Kant war die Philosophie der Aufklärung für die Menschen der Ausgang aus ihrer selbstverschuldeten …?",
+    "answers": [
+      "Unmündigkeit",
+      "Schlaflosigkeit",
+      "Transzendalität",
+      "Überbevölkerung"
+    ],
+    "correctAnswerIndex": 0,
+    "difficulty": "HARD"
+  },
+  {
+    "question": "Was ist ein Dugong?",
+    "answers": [
+      "Meditationswerkzeug",
+      "Seekuh",
+      "Tischtennisplatte",
+      "Klingel"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "HARD"
+  },
+  {
+    "question": "Wo und wann wurde der erste Bankautomat aufgestellt?",
+    "answers": [
+      "London, 1967",
+      "New York, 1970",
+      "Mailand, 1972",
+      "Tokyo, 1975"
+    ],
+    "correctAnswerIndex": 0,
+    "difficulty": "HARD"
+  },
+  {
+    "question": "Wer legte 1954 den Grundstein für den Restaurant Konzern McDonald’s?",
+    "answers": [
+      "Ronald McDonald",
+      "Dick van Mac",
+      "Ray Kroc",
+      "Archie Macmillan"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "HARD"
+  },
+  {
+    "question": "Was war Katharina von Bora, bevor sie den Reformator Martin Luther heiratete?",
+    "answers": [
+      "Pastorin",
+      "Krankenschwester",
+      "Organistin",
+      "Nonne"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "HARD"
+  },
+  {
+    "question": "Wer gewann 1950 die erste Formel-1 Weltmeisterschaft?",
+    "answers": [
+      "Juan Manuel Fangio",
+      "Alberto Ascari",
+      "Nino Farina",
+      "Jack Brabham"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "HARD"
+  },
+  {
+    "question": "Wer gründete 1964 in Frankreich das politische engagierte Théâtre du Soleil?",
+    "answers": [
+      "Ariane Mnouchkine",
+      "Jean-Baptiste Poquelin",
+      "Dario Fo",
+      "Eugène Ionesco"
+    ],
+    "correctAnswerIndex": 0,
+    "difficulty": "HARD"
+  },
+  {
+    "question": "Wie heißt die Währung von Vietnam?",
+    "answers": [
+      "Ding",
+      "Dong",
+      "Dang",
+      "Dung"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "HARD"
+  },
+  {
+    "question": "Aus welchem Goethe-Drama stammt die Redewendung “Himmelhoch jauchzend, zum Tode betrübt“?",
+    "answers": [
+      "Faust",
+      "Clavigo",
+      "Stella",
+      "Egmont"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "HARD"
+  },
+  {
+    "question": "An welchem internationalen Kfz-Kennzeichen erkennt man Fahrzeugen aus Madagaskar?",
+    "answers": [
+      "MA",
+      "MD",
+      "RM",
+      "KMA"
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "HARD"
+  },
+  {
+    "question": "Welcher Quäker war mit 9 Jahren Vollwaise, wurde später Bauingenieur und schließlich US-Präsident?",
+    "answers": [
+      "Herbert Hoover",
+      "Franklin D. Roosevelt",
+      "Jimmy Carter",
+      "Harry S. Truman"
+    ],
+    "correctAnswerIndex": 0,
+    "difficulty": "HARD"
+  },
+  {
+    "question": "Wer hat 1883 die Rheinische Gasmotorfabrik gegründet?",
+    "answers": [
+      "Carl Friedrich Benz",
+      "Gottlieb Daimler",
+      "Nikolaus August Otto",
+      "Rudolf Diesel"
+    ],
+    "correctAnswerIndex": 0,
+    "difficulty": "HARD"
+  },
+  {
+    "question": "Um was für ein Tier handelt es sich bei dem Zwietracht säenden Ratatöskr aus der germanischen Mythologie?",
+    "answers": [
+      "Drache",
+      "Eichhörnchen",
+      "Rabe",
+      "Schlange"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "HARD"
+  },
+  {
+    "question": "Welches Tier war nach der germanischen Mythologie das erste Lebewesen der Welt",
+    "answers": [
+      "Kuh",
+      "Affe",
+      "Schlange",
+      "Kaninchen"
+    ],
+    "correctAnswerIndex": 0,
+    "difficulty": "HARD"
+  },
+  {
+    "question": "Zu welcher Pflanzenfamilie gehören Runkelrübe und Spinat?",
+    "answers": [
+      "Wolfsmilchgewächse",
+      "Sauergräser",
+      "Liliengewächse",
+      "Gänsefußgewächse"
+    ],
+    "correctAnswerIndex": 3,
+    "difficulty": "HARD"
+  },
+  {
+    "question": "Wer flog am 16. Juni 1963 als erste Frau ins Weltall?",
+    "answers": [
+      "Walentina Tereschkowa",
+      "Tatjana Vinnik",
+      "Nancy Akers",
+      "Jo-Berth Williams"
+    ],
+    "correctAnswerIndex": 0,
+    "difficulty": "HARD"
+  }
+]

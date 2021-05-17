@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration>
+    <appender name="sysout" class="ch.qos.logback.core.ConsoleAppender">
+        <encoder>
+            <pattern>
+                %d{HH:mm:ss.SSS} | %highlight(%-5level) | %logger{25} | %m%n
+            </pattern>
+            <charset>utf8</charset>
+        </encoder>
+    </appender>
+    <logger name="ch.srf.inte" level="DEBUG"/>
+    <root level="INFO">
+        <appender-ref ref="sysout"/>
+    </root>
+</configuration>
