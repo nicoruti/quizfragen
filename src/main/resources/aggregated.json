@@ -429,6 +429,556 @@
     "difficulty": "MEDIUM"
   },
   {
+    "question": "Wie viele Zähne hat ein erwachsener Mensch normalerweise?",
+    "answers": [
+      "32",
+      "26",
+      "30",
+      "36"
+    ],
+    "correctAnswerIndex": 0,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "question": "Welches der folgenden Farben zählt nicht zu den Primärfarben?",
+    "answers": [
+      "Grün",
+      "Blau",
+      "Gelb",
+      "Rot"
+    ],
+    "correctAnswerIndex": 0,
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Was soll Cäsar gesagt haben, als er den Rubikon überquerte?",
+    "answers": [
+      "alea iacta est",
+      "veni, vidi, vici",
+      "divide et empera",
+      "et tu, brute"
+    ],
+    "correctAnswerIndex": 0,
+    "difficulty": "HARD"
+  },
+  {
+    "question": "Was ist nicht nur eine Programmiersprache, sondern auch eine Insel von Indonesien?",
+    "answers": [
+      "Java",
+      "Python",
+      "Sumatra",
+      "Medan"
+    ],
+    "correctAnswerIndex": 0,
+    "difficulty": "HARD"
+  },
+  {
+    "question": "Wie viele Oscars gewann der Film Titanic?",
+    "answers": [
+      "11",
+      "10",
+      "12",
+      "13"
+    ],
+    "correctAnswerIndex": 0,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "question": "Welcher der folgenden Personen wurde für den Friedensnobelpreis nominiert?",
+    "answers": [
+      "Adolf Hitler",
+      "Mao Tse-Dong",
+      "Osama bin Laden",
+      "Ludwig XIII"
+    ],
+    "correctAnswerIndex": 0,
+    "difficulty": "HARD"
+  },
+  {
+    "question": "Wie viele Planeten hat unser Sonnensystem?",
+    "answers": [
+      "8",
+      "9",
+      "11",
+      "12"
+    ],
+    "correctAnswerIndex": 0,
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Welche dieser Pflanzen existiert wirklich?",
+    "answers": [
+      "Goldregen",
+      "Silbersonne",
+      "Bronzewolke",
+      "Platindürre"
+    ],
+    "correctAnswerIndex": 0,
+    "difficulty": "HARD"
+  },
+  {
+    "question": "Wer verbreitete das Heliozentrische Weltbild?",
+    "answers": [
+      "Nikolaus Kopernikus",
+      "Galileo Galilei",
+      "Leonardo Davinci",
+      "Aristoteles"
+    ],
+    "correctAnswerIndex": 0,
+    "difficulty": "HARD"
+  },
+  {
+    "question": "Was ist das Maskottchen der japanischen Fußball-Nationalmannschaft?",
+    "answers": [
+      "Pikachu",
+      "Mario",
+      "Donkey Kong",
+      "Zelda"
+    ],
+    "correctAnswerIndex": 0,
+    "difficulty": "HARD"
+  },
+  {
+    "question": "Was ist der zweithöchste Berg Deutschlands?",
+    "answers": [
+      "Hochwanner",
+      "Brocken",
+      "Watzmann",
+      "Zugspitze"
+    ],
+    "correctAnswerIndex": 0,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "question": "Welche Farbe haben die Taxis in New York?",
+    "answers": [
+      "gelb",
+      "beige",
+      "grün",
+      "orange"
+    ],
+    "correctAnswerIndex": 0,
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Wie lang ist der Äquator in etwa?",
+    "answers": [
+      "40.000km",
+      "50.000km",
+      "10.000km",
+      "70.000km"
+    ],
+    "correctAnswerIndex": 0,
+    "difficulty": "HARD"
+  },
+  {
+    "question": "Aus wie vielen kleinen Würfeln besteht der originale Zauberwürfel?",
+    "answers": [
+      "26",
+      "22",
+      "28",
+      "24"
+    ],
+    "correctAnswerIndex": 0,
+    "difficulty": "HARD"
+  },
+  {
+    "question": "Wer schrieb den Erlkönig?",
+    "answers": [
+      "Goethe",
+      "Schiller",
+      "Böll",
+      "Grass"
+    ],
+    "correctAnswerIndex": 0,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "question": "Um welche Art von Fisch handelt es sich bei Nemo aus dem Film ‘Findet Nemo’?",
+    "answers": [
+      "Clownfisch",
+      "Zirkusfisch",
+      "Orangenfisch",
+      "Dompteurfisch"
+    ],
+    "correctAnswerIndex": 0,
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Welcher Agent steht im Zusammenhang mit der Lizenz zum Töten?",
+    "answers": [
+      "James Bond",
+      "Jason Bourne",
+      "Ethan Hunt",
+      "Kingsmen"
+    ],
+    "correctAnswerIndex": 0,
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Wie lange dauert es, bis die Erde einmal die Sonne umkreist hat?",
+    "answers": [
+      "365 Tage",
+      "24Stunden",
+      "31 Tage",
+      "4 Jahre"
+    ],
+    "correctAnswerIndex": 0,
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Wie nennt sich die Währung in Russland?",
+    "answers": [
+      "Rubel",
+      "Kronen",
+      "Zloty",
+      "Euro"
+    ],
+    "correctAnswerIndex": 0,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "question": "“Was war der erste vollständig Computeranimierte Film?",
+    "answers": [
+      "Toy Story",
+      "Shrek",
+      "Findet Nemo",
+      "Horton hört ein Hu"
+    ],
+    "correctAnswerIndex": 0,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "question": "Wer erfand die Jeans?",
+    "answers": [
+      "Levi Strauss",
+      "Tom Wrangler",
+      "Peter Diesel",
+      "Tim Mustang"
+    ],
+    "correctAnswerIndex": 0,
+    "difficulty": "HARD"
+  },
+  {
+    "question": "Welcher der folgenden Personen gehört nicht zum Club 27?",
+    "answers": [
+      "Avicii",
+      "Amy Winehouse",
+      "Jimi Hendrix",
+      "Brian Jones"
+    ],
+    "correctAnswerIndex": 0,
+    "difficulty": "HARD"
+  },
+  {
+    "question": "Welcher Nadelbaum verliert im Winter seine Nadeln?",
+    "answers": [
+      "Lärche",
+      "Tanne",
+      "Fichte",
+      "Douglasie"
+    ],
+    "correctAnswerIndex": 0,
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Welches Tier findet man häufiger in den USA als Haustier als tatsächlich in freier Wildbahn?",
+    "answers": [
+      "Tiger",
+      "Löwe",
+      "Grizzlybär",
+      "Nilpferd"
+    ],
+    "correctAnswerIndex": 0,
+    "difficulty": "HARD"
+  },
+  {
+    "question": "Wer schrieb Die Physiker?",
+    "answers": [
+      "Friedrich Dürrenmatt",
+      "Umberto Eoc",
+      "Franz Kafka",
+      "Goethe"
+    ],
+    "correctAnswerIndex": 0,
+    "difficulty": "HARD"
+  },
+  {
+    "question": "‘Ich gehe gern durch den Regen, damit mich niemand weinen sehen kann’ Ist ein Zitat von...?",
+    "answers": [
+      "Charlie Chaplin",
+      "Amy Winehouse",
+      "Frank Sinatra",
+      "Albert Einstein"
+    ],
+    "correctAnswerIndex": 0,
+    "difficulty": "HARD"
+  },
+  {
+    "question": "Wie viele Jahre dauert es bis Saturn die Sonne umrundet?",
+    "answers": [
+      "ca. 29 Jahre",
+      "ca. 40 Jahre",
+      "ca. 10 Jahre",
+      "ca. 20 Jahre"
+    ],
+    "correctAnswerIndex": 0,
+    "difficulty": "HARD"
+  },
+  {
+    "question": "Wie viele Knochen hat der Körper eines erwachsenen Menschen?",
+    "answers": [
+      "206",
+      "164",
+      "53",
+      "108"
+    ],
+    "correctAnswerIndex": 0,
+    "difficulty": "HARD"
+  },
+  {
+    "question": "Wie wird das Wort richtig geschrieben?",
+    "answers": [
+      "Attrappe",
+      "Atrappe",
+      "Attrape",
+      "Atrape"
+    ],
+    "correctAnswerIndex": 0,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "question": "Wie viele Tasten hat üblicherweise ein Klavier?",
+    "answers": [
+      "88",
+      "77",
+      "66",
+      "99"
+    ],
+    "correctAnswerIndex": 0,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "question": "Welches war bereits ein Jugendwort des Jahres?",
+    "answers": [
+      "Gammelfleischparty",
+      "Lauch",
+      "Gib ihm!",
+      "Zuckerbergen"
+    ],
+    "correctAnswerIndex": 0,
+    "difficulty": "HARD"
+  },
+  {
+    "question": "Was ist die Lebensdauer einer Libelle?",
+    "answers": [
+      "24 Stunden",
+      "1 bis 3 Monate",
+      "2 bis 8 Wochen",
+      "4 bis 14 Tage"
+    ],
+    "correctAnswerIndex": 0,
+    "difficulty": "HARD"
+  },
+  {
+    "question": "Auf welchem Kontinent wurde Elon Musk geboren?",
+    "answers": [
+      "Afrika",
+      "Amerika",
+      "Europa",
+      "Asien"
+    ],
+    "correctAnswerIndex": 0,
+    "difficulty": "HARD"
+  },
+  {
+    "question": "Welches Sternzeichen hatte Albert Einstein?",
+    "answers": [
+      "Fische",
+      "Widder",
+      "Stier",
+      "Schütze"
+    ],
+    "correctAnswerIndex": 0,
+    "difficulty": "HARD"
+  },
+  {
+    "question": "Wer hat 1810 die Blechdose zur Konservierung von Lebensmitteln erfunden?",
+    "answers": [
+      "Peter Durand",
+      "Friedrich Koenig",
+      "Joseph von Fraunhofer",
+      "Humphry Davy"
+    ],
+    "correctAnswerIndex": 0,
+    "difficulty": "HARD"
+  },
+  {
+    "question": "‘Einigkeit und Recht und Freiheit...’ sind der Anfang welchen Liedes?",
+    "answers": [
+      "Deutsche Nationalhymne",
+      "Deutschlied",
+      "Deutsche Werte",
+      "Deutschland"
+    ],
+    "correctAnswerIndex": 0,
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Wofür hält Paul Hunn den Rekord, der bei 109,9 Dezibel lag",
+    "answers": [
+      "Rülpsen",
+      "Kauen",
+      "Stampfen",
+      "Finger Knacksen"
+    ],
+    "correctAnswerIndex": 0,
+    "difficulty": "HARD"
+  },
+  {
+    "question": "Welches Blatt ist auf der kanadischen Flagge zu erkennen?",
+    "answers": [
+      "Ahorn",
+      "Buche",
+      "Eiche",
+      "Birke"
+    ],
+    "correctAnswerIndex": 0,
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Welches Land ist das einzige, welches keine rechteckige Flagge hat?",
+    "answers": [
+      "Nepal",
+      "Kasachstan",
+      "Bangladesh",
+      "Mongolei"
+    ],
+    "correctAnswerIndex": 0,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "question": "Wer ist auch als der ‘Sonnenkönig’ bekannt?",
+    "answers": [
+      "Ludwig XIV",
+      "Karl der Kahle",
+      "Iwan der Schreckliche",
+      "Ludwig VII"
+    ],
+    "correctAnswerIndex": 0,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "question": "Wie viele Atemzüge nimmt der Menschliche Körper täglich auf",
+    "answers": [
+      "20 000",
+      "5 000",
+      "40 000",
+      "1 000"
+    ],
+    "correctAnswerIndex": 0,
+    "difficulty": "HARD"
+  },
+  {
+    "question": "Aus welcher Kultur stammt der Traumfänger?",
+    "answers": [
+      "Indianische",
+      "Jüdische",
+      "Fernöstliche",
+      "Islamische"
+    ],
+    "correctAnswerIndex": 0,
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Welches Glas kennt man aus dem Chemieunterricht?",
+    "answers": [
+      "Reagenzglas",
+      "Fernglas",
+      "Kirchenglas",
+      "Weinglas"
+    ],
+    "correctAnswerIndex": 0,
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Was tauscht ein Brautpaar während der Trauerzeremonie?",
+    "answers": [
+      "Ringe",
+      "Tagebücher",
+      "Unterwäsche",
+      "Panini-Sammelbilder"
+    ],
+    "correctAnswerIndex": 0,
+    "difficulty": "EASY"
+  },
+  {
+    "question": "Wie heißt bei Modenschauen der Laufsteg noch?",
+    "answers": [
+      "Catwalk",
+      "Horseroad",
+      "Mouserun",
+      "Dogstreet"
+    ],
+    "correctAnswerIndex": 0,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "question": "Wie nennt man angehörige der UN-Friedenstruppe?",
+    "answers": [
+      "Blauhelme",
+      "Blaustrümpfe",
+      "Blaujacken",
+      "Blauschilde"
+    ],
+    "correctAnswerIndex": 0,
+    "difficulty": "HARD"
+  },
+  {
+    "question": "Was gehört nicht zur Dialektik?",
+    "answers": [
+      "Photosynthese",
+      "These",
+      "Antithese",
+      "Synthese"
+    ],
+    "correctAnswerIndex": 0,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "question": "Wer wurde durch seine I Have a Dream Rede bekannt?",
+    "answers": [
+      "Martin Luther King",
+      "Nelson Mandela",
+      "John F. Kennedy",
+      "Mahatma Gandhi"
+    ],
+    "correctAnswerIndex": 0,
+    "difficulty": "MEDIUM"
+  },
+  {
+    "question": "Wie heißt eine daoistische Harmonielehre aus China?",
+    "answers": [
+      "Feng Shui",
+      "Feng Schuji",
+      "Fen Schui",
+      "Feng Schuj"
+    ],
+    "correctAnswerIndex": 0,
+    "difficulty": "HARD"
+  },
+  {
+    "question": "Wie lautet eine Bezeichnung für ein aufgefundenes Kind, das zuvor von den Eltern ausgesetzt wurde?",
+    "answers": [
+      "Findelkind",
+      "Schlüsselkind",
+      "Wolfskind",
+      "Schmuddelkind"
+    ],
+    "correctAnswerIndex": 0,
+    "difficulty": "MEDIUM"
+  },
+  {
     "question": "Wie heißt Aachen samt Stadttitel?",
     "answers": [
       "Sankt Aachen",

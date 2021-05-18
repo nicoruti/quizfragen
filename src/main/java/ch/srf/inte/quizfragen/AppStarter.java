@@ -19,6 +19,7 @@ public class AppStarter {
     public static void main(String[] args) throws IOException {
         List<IQuestionParser> parsers = List.of(
                 new LinuxQuizQuestionParser(),
+                new WwmQuestionParser(),
                 new Wwm2QuestionParser(),
                 new OotQuestionParser(),
                 new WwmQuestionJsonParser()
